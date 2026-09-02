@@ -1,0 +1,74 @@
+﻿Employee_ID;Name;Department;Job_Title;Region;Employment_Type
+E101;James Smith;Sales;Account Executive;Warsaw, Poland;Full-Time
+E102;Mary Johnson;Engineering;Senior Software Engineer;Berlin, Germany;Full-Time
+E103;Robert Williams;Marketing;Marketing Specialist;Warsaw, Poland;Full-Time
+E104;Patricia Brown;Finance;Financial Analyst;Warsaw, Poland;Full-Time
+E105;John Jones;HR;HR Business Partner;Warsaw, Poland;Full-Time
+E106;Jennifer Garcia;Operations;Operations Coordinator;Warsaw, Poland;Full-Time
+E107;Michael Miller;Sales;Sales Manager;Berlin, Germany;Full-Time
+E108;Linda Davis;Engineering;Software Engineer;Warsaw, Poland;Full-Time
+E109;David Rodriguez;Marketing;Digital Marketing Specialist;Berlin, Germany;Full-Time
+E110;Elizabeth Martinez;Finance;Senior Financial Analyst;London, UK;Full-Time
+E111;William Hernandez;HR;Recruitment Specialist;Warsaw, Poland;Full-Time
+E112;Barbara Lopez;Operations;Logistics Coordinator;Berlin, Germany;Full-Time
+E113;Richard Gonzalez;Sales;Business Development Executive;Warsaw, Poland;Full-Time
+E114;Susan Wilson;Engineering;Engineering Manager;London, UK;Full-Time
+E115;Joseph Anderson;Marketing;Marketing Manager;Berlin, Germany;Full-Time
+E116;Jessica Thomas;Finance;Finance Manager;Warsaw, Poland;Full-Time
+E117;Thomas Taylor;HR;HR Manager;Warsaw, Poland;Full-Time
+E118;Sarah Moore;Operations;Operations Manager;London, UK;Full-Time
+E119;Charles Jackson;Sales;Key Account Manager;Berlin, Germany;Full-Time
+E120;Karen Martin;Engineering;QA Engineer;Warsaw, Poland;Full-Time
+E121;Christopher Lee;Marketing;Content Specialist;Warsaw, Poland;Full-Time
+E122;Nancy Perez;Finance;Finance Director;Warsaw, Poland;Full-Time
+E123;Daniel Thompson;HR;HR Specialist;Berlin, Germany;Full-Time
+E124;Lisa White;Operations;Travel & Operations Specialist;Warsaw, Poland;Full-Time
+E125;Matthew Harris;Sales;Sales Representative;London, UK;Full-Time
+E126;Betty Sanchez;Engineering;Data Engineer;Berlin, Germany;Full-Time
+E127;Anthony Clark;Marketing;Marketing Analyst;Warsaw, Poland;Full-Time
+E128;Margaret Ramirez;Finance;Accounts Payable Specialist;Warsaw, Poland;Full-Time
+E129;Mark Lewis;HR;Talent Acquisition Specialist;London, UK;Full-Time
+E130;Sandra Robinson;Operations;Project Coordinator;Warsaw, Poland;Full-Time
+E131;Donald Walker;Sales;Sales Director;Berlin, Germany;Full-Time
+E132;Ashley Young;Engineering;Software Developer;Warsaw, Poland;Full-Time
+E133;Steven Allen;Marketing;Brand Specialist;London, UK;Full-Time
+E134;Kimberly King;Finance;Financial Controller;Berlin, Germany;Full-Time
+E135;Paul Wright;HR;HR Coordinator;Warsaw, Poland;Full-Time
+E136;Emily Scott;Operations;Supply Chain Analyst;Warsaw, Poland;Full-Time
+E137;Andrew Torres;Sales;Senior Account Executive;Berlin, Germany;Full-Time
+E138;Donna Nguyen;Engineering;DevOps Engineer;Warsaw, Poland;Full-Time
+E139;Joshua Hill;Marketing;Marketing Coordinator;Warsaw, Poland;Full-Time
+E140;Michelle Flores;Finance;Accounting Specialist;London, UK;Full-Time
+E141;Kenneth Green;HR;Compensation Analyst;Berlin, Germany;Full-Time
+E142;Amanda Adams;Operations;Operations Analyst;Warsaw, Poland;Full-Time
+E143;Kevin Nelson;Sales;Regional Sales Director;London, UK;Full-Time
+E144;Melissa Baker;Engineering;Product Engineer;Berlin, Germany;Full-Time
+E145;Brian Hall;Marketing;Marketing Director;London, UK;Full-Time
+E146;Deborah Rivera;Finance;Accounts Receivable Specialist;Warsaw, Poland;Full-Time
+E147;George Campbell;HR;Recruitment Manager;London, UK;Full-Time
+E148;Stephanie Mitchell;Operations;Procurement Specialist;Berlin, Germany;Full-Time
+E149;Edward Carter;Sales;Enterprise Account Executive;Warsaw, Poland;Full-Time
+E150;Rebecca Roberts;Engineering;Senior Data Engineer;London, UK;Full-Time
+E151;Ronald Turner;Marketing;Performance Marketing Manager;Berlin, Germany;Full-Time
+E152;Sharon Phillips;Finance;Treasury Analyst;Warsaw, Poland;Full-Time
+E153;Timothy Campbell;HR;HR Operations Specialist;Warsaw, Poland;Full-Time
+E154;Cynthia Parker;Operations;Business Operations Manager;London, UK;Full-Time
+E155;Jason Evans;Sales;Sales Development Representative;Warsaw, Poland;Full-Time
+E156;Kathleen Edwards;Engineering;Software Engineer;Berlin, Germany;Full-Time
+E157;Jeffrey Collins;Marketing;Marketing Analyst;Warsaw, Poland;Full-Time
+E158;Shirley Stewart;Finance;Senior Accountant;Berlin, Germany;Full-Time
+E159;Ryan Sanchez;HR;People Operations Specialist;Warsaw, Poland;Full-Time
+E160;Brenda Morris;Operations;Operations Director;London, UK;Full-Time
+E161;Jacob Rogers;Sales;Business Development Manager;Berlin, Germany;Full-Time
+E162;Pamela Reed;Engineering;Engineering Analyst;Warsaw, Poland;Full-Time
+E163;Gary Cook;Marketing;Senior Marketing Specialist;Berlin, Germany;Full-Time
+E164;Anna Morgan;Finance;Senior Financial Analyst;London, UK;Full-Time
+E165;Nicholas Bell;HR;Employee Relations Specialist;Berlin, Germany;Full-Time
+E166;Virginia Murphy;Operations;Operations Specialist;Warsaw, Poland;Full-Time
+E167;Eric Bailey;Sales;Sales Executive;Warsaw, Poland;Full-Time
+E168;Frank Cooper;Engineering;Engineering Director;Berlin, Germany;Full-Time
+E169;Helen Richardson;Marketing;Product Marketing Manager;London, UK;Full-Time
+E170;Raymond Cox;Finance;Financial Planning Analyst;Warsaw, Poland;Full-Time
+E171;Marie Howard;HR;Learning & Development Specialist;London, UK;Full-Time
+E172;Jerry Ward;Operations;Facilities Coordinator;Warsaw, Poland;Full-Time
+;;;69;3;

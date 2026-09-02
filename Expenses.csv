@@ -1,0 +1,303 @@
+﻿Transaction_ID;Employee_ID;Category;Amount;Date;Merchant;Has_Receipt;Payment_Method;Business_Purpose;Location
+T00234;E158;Train;120,71;1.10.2025;CD Railways;Yes;Corporate Card;Business trip;Berlin, Germany
+T00167;E146;Hotel;118,27;27.02.2025;Marriott;Yes;Corporate Card;Finance workshop;London, UK
+T00214;E157;Breakfast;15,83;23.07.2025;Costa Coffee;No;Corporate Card;Client meeting;London, UK
+T00258;E168;Taxi/Rideshare;59,98;23.10.2025;Uber;Yes;Personal Card;Late return from client meeting;Prague, Czech Republic
+T00010;E106;Dinner;53,45;21.04.2025;Whisky in the Jar;Yes;Corporate Card;Business trip;Prague, Czech Republic
+T00152;E143;Lunch;27,01;20.06.2025;North Fish;Yes;Corporate Card;Customer workshop;Amsterdam, Netherlands
+T00179;E153;Hotel;119,45;30.06.2025;Sheraton;Yes;Personal Card;Business trip;Gdansk, Poland
+T00119;E135;Dinner;36,96;12.08.2025;Hotel Restaurant;No;Personal Card;Team dinner;Gdansk, Poland
+T00194;E157;Hotel;260,81;8.12.2025;Holiday Inn;Yes;Corporate Card;Project workshop;Krakow, Poland
+T00229;E157;Airfare;962,1;2.06.2025;Lufthansa;Yes;Corporate Card;Supplier meeting;Wroclaw, Poland
+T00061;E116;Airfare;907,48;5.05.2025;LOT Polish Airlines;Yes;Corporate Card;Training;London, UK
+T00296;E170;Breakfast;22,79;29.08.2025;Green Caffe Nero;Yes;Corporate Card;Client meeting;Krakow, Poland
+T00065;E116;Train;119,2;25.09.2025;Eurostar;No;Corporate Card;Internal meeting;Warsaw, Poland
+T00012;E107;Dinner;40,9;18.06.2025;Hotel Restaurant;Yes;Corporate Card;Supplier meeting;Prague, Czech Republic
+T00078;E121;Breakfast;25,22;23.04.2025;Pret A Manger;Yes;Corporate Card;Internal meeting;Warsaw, Poland
+T00160;E143;Dinner;31,53;25.09.2025;Stary Dom;Yes;Corporate Card;Supplier meeting;Amsterdam, Netherlands
+T00220;E157;Lunch;58,77;10.12.2025;Bistro Warszawa;Yes;Corporate Card;Client meeting;Wroclaw, Poland
+T00186;E157;Train;173,61;17.11.2025;Deutsche Bahn;No;Personal Card;Business trip;London, UK
+T00185;E157;Hotel;354,63;25.03.2025;Mercure;Yes;Corporate Card;Conference attendance;Vienna, Austria
+T00165;E146;Lunch;56,55;13.05.2025;Vapiano;Yes;Corporate Card;Team lunch;London, UK
+T00042;E114;Breakfast;19,69;26.06.2025;Paul;No;Corporate Card;Business trip;Berlin, Germany
+T00259;E168;Airfare;913,42;26.04.2025;British Airways;Yes;Corporate Card;Customer visit;Hamburg, Germany
+T00025;E111;Dinner;68,89;10.11.2025;Restauracja Polska;Yes;Personal Card;Team dinner;Krakow, Poland
+T00170;E149;Hotel;177,79;5.05.2025;Marriott;No;Corporate Card;Conference attendance;Prague, Czech Republic
+T00161;E143;Lunch;18,34;8.09.2025;Vapiano;No;Corporate Card;Customer workshop;London, UK
+T00193;E157;Taxi/Rideshare;60,07;21.05.2025;Taxi Warsaw;Yes;Corporate Card;Late return from client meeting;Wroclaw, Poland
+T00297;E170;Hotel;340,47;14.03.2025;Novotel;Yes;Corporate Card;Finance workshop;Berlin, Germany
+T00074;E121;Dinner;52,17;7.04.2025;Hard Rock Cafe;No;Corporate Card;Team dinner;Paris, France
+T00285;E170;Airfare;579,71;8.04.2025;easyJet;No;Personal Card;Training;Berlin, Germany
+T00153;E143;Lunch;55;8.12.2025;Food Hall;Yes;Corporate Card;Client meeting;Amsterdam, Netherlands
+T00063;E116;Dinner;29,45;27.08.2025;Nobu Warsaw;Yes;Corporate Card;Project milestone dinner;London, UK
+T00263;E169;Airfare;571,91;26.11.2025;KLM;Yes;Personal Card;Supplier meeting;Berlin, Germany
+T00132;E140;Lunch;22,62;19.03.2025;Zabka;Yes;Personal Card;Business trip;Manchester, UK
+T00148;E142;Airfare;318,76;17.01.2025;Brussels Airlines;Yes;Corporate Card;Training;Vienna, Austria
+T00092;E123;Hotel;374,61;9.05.2025;Sheraton;Yes;Corporate Card;HR conference;Vienna, Austria
+T00014;E107;Airfare;853,4;9.06.2025;Brussels Airlines;Yes;Corporate Card;Customer visit;Munich, Germany
+T00175;E153;Airfare;535,43;4.06.2025;easyJet;Yes;Corporate Card;Supplier meeting;Paris, France
+T00001;E103;Taxi/Rideshare;22,47;13.03.2025;FREE NOW;No;Corporate Card;Travel between offices;Gdansk, Poland
+T00140;E141;Lunch;30,74;20.06.2025;North Fish;Yes;Corporate Card;Team lunch;Warsaw, Poland
+T00201;E157;Dinner;60,47;12.09.2025;Concept 13;Yes;Corporate Card;Partner meeting;London, UK
+T00236;E159;Dinner;58,11;27.08.2025;Aioli;Yes;Corporate Card;Candidate dinner;Vienna, Austria
+T00147;E142;Breakfast;16,08;22.10.2025;Costa Coffee;Yes;Corporate Card;Conference attendance;Warsaw, Poland
+T00031;E111;Train;173,53;7.07.2025;Italo;Yes;Corporate Card;Training;Warsaw, Poland
+T00015;E108;Airfare;654,77;1.08.2025;Ryanair;No;Corporate Card;Training;Vienna, Austria
+T00127;E138;Lunch;33,1;10.12.2025;Local Bistro;Yes;Corporate Card;Conference attendance;Berlin, Germany
+T00026;E111;Airfare;443,25;28.02.2025;Wizz Air;Yes;Corporate Card;Business trip;Prague, Czech Republic
+T00228;E157;Lunch;56,97;14.05.2025;Pret A Manger;Yes;Corporate Card;Supplier meeting;Vienna, Austria
+T00183;E157;Taxi/Rideshare;33,74;24.01.2025;Taxi Berlin;Yes;Corporate Card;Airport transfer;Warsaw, Poland
+T00122;E135;Hotel;282,31;29.09.2025;Courtyard by Marriott;Yes;Corporate Card;Training;Wroclaw, Poland
+T00207;E157;Taxi/Rideshare;56,7;14.06.2025;mytaxi;Yes;Personal Card;Client meeting;Prague, Czech Republic
+T00249;E163;Train;71,73;7.11.2025;ÖBB;Yes;Corporate Card;Project workshop;Frankfurt, Germany
+T00138;E141;Airfare;563,78;7.11.2025;Brussels Airlines;Yes;Corporate Card;Business trip;Vienna, Austria
+T00034;E111;Lunch;38,55;4.12.2025;Pret A Manger;Yes;Personal Card;Internal meeting;Vienna, Austria
+T00282;E170;Dinner;30,02;10.12.2025;Der Elefant;Yes;Personal Card;Team dinner;Paris, France
+T00248;E161;Airfare;405,04;30.01.2025;Brussels Airlines;Yes;Personal Card;Sales visit;Hamburg, Germany
+T00101;E125;Hotel;338,51;22.08.2025;Motel One;Yes;Personal Card;Conference attendance;Amsterdam, Netherlands
+T00188;E157;Hotel;141,4;17.11.2025;Leonardo Hotels;Yes;Corporate Card;Business trip;Vienna, Austria
+T00269;E169;Dinner;43,19;6.08.2025;Whisky in the Jar;Yes;Corporate Card;Business trip;Dublin, Ireland
+T00144;E141;Train;45,4;12.12.2025;Deutsche Bahn;Yes;Personal Card;Business trip;Hamburg, Germany
+T00246;E161;Dinner;67,89;24.10.2025;Nobu Warsaw;Yes;Personal Card;Client dinner;Prague, Czech Republic
+T00250;E163;Breakfast;20,9;25.08.2025;Paul;No;Corporate Card;Travel to customer site;Warsaw, Poland
+T00206;E157;Taxi/Rideshare;31,28;9.09.2025;FREE NOW;Yes;Corporate Card;Late return from client meeting;Vienna, Austria
+T00143;E141;Dinner;80,65;21.03.2025;Concept 13;Yes;Corporate Card;HR workshop;Munich, Germany
+T00097;E123;Lunch;18,12;19.03.2025;Zabka;No;Corporate Card;Internal meeting;Vienna, Austria
+T00048;E114;Train;173,25;1.08.2025;ÖBB;Yes;Personal Card;Supplier meeting;Manchester, UK
+T00262;E169;Dinner;88,99;25.02.2025;Restauracja Polska;Yes;Corporate Card;Client dinner;Manchester, UK
+T00213;E157;Airfare;388;28.05.2025;LOT Polish Airlines;Yes;Corporate Card;Conference attendance;Prague, Czech Republic
+T00301;E171;Hotel;122,21;27.10.2025;Courtyard by Marriott;No;Corporate Card;Training;Edinburgh, UK
+T00107;E127;Taxi/Rideshare;49,24;13.10.2025;mytaxi;Yes;Corporate Card;Airport transfer;Gdansk, Poland
+T00058;E115;Dinner;54,18;3.09.2025;Restauracja Polska;Yes;Corporate Card;Campaign planning dinner;Berlin, Germany
+T00022;E109;Dinner;44,31;9.05.2025;Local Restaurant;Yes;Corporate Card;Agency dinner;Prague, Czech Republic
+T00118;E134;Lunch;41,19;7.10.2025;Pret A Manger;Yes;Corporate Card;Audit meeting;Berlin, Germany
+T00113;E133;Hotel;234,67;22.08.2025;Sheraton;Yes;Corporate Card;Project workshop;Edinburgh, UK
+T00124;E137;Train;116,04;6.11.2025;Leo Express;Yes;Corporate Card;Project workshop;Frankfurt, Germany
+T00054;E114;Lunch;52,9;12.05.2025;North Fish;Yes;Corporate Card;Customer workshop;London, UK
+T00208;E157;Taxi/Rideshare;37,52;9.05.2025;Bolt;Yes;Corporate Card;Travel between offices;Prague, Czech Republic
+T00245;E161;Taxi/Rideshare;41,87;23.04.2025;Taxi Berlin;Yes;Corporate Card;Conference attendance;Warsaw, Poland
+T00135;E140;Breakfast;35,51;27.01.2025;Cafe Nero;Yes;Personal Card;Business trip;Manchester, UK
+T00084;E122;Lunch;41,6;27.05.2025;Pret A Manger;Yes;Corporate Card;Supplier meeting;Gdansk, Poland
+T00158;E143;Taxi/Rideshare;42,88;28.01.2025;Bolt;Yes;Personal Card;Customer visit;Edinburgh, UK
+T00227;E157;Dinner;27,01;3.06.2025;Soul Kitchen;Yes;Corporate Card;Business trip;Wroclaw, Poland
+T00198;E157;Breakfast;24,24;9.05.2025;Paul;Yes;Corporate Card;Business trip;Krakow, Poland
+T00205;E157;Airfare;647,31;2.09.2025;easyJet;Yes;Corporate Card;Training;London, UK
+T00204;E157;Airfare;489,71;1.10.2025;Brussels Airlines;Yes;Personal Card;Client visit;Vienna, Austria
+T00137;E141;Hotel;354,38;10.07.2025;Courtyard by Marriott;Yes;Corporate Card;Business trip;Frankfurt, Germany
+T00146;E142;Dinner;49,47;1.08.2025;Stary Dom;Yes;Corporate Card;Business trip;Prague, Czech Republic
+T00021;E109;Dinner;78,28;16.01.2025;Nobu Warsaw;Yes;Corporate Card;Agency dinner;Prague, Czech Republic
+T00243;E159;Breakfast;23,35;26.11.2025;Local Bakery;Yes;Corporate Card;Internal meeting;Vienna, Austria
+T00276;E169;Dinner;85,79;18.04.2025;Stary Dom;Yes;Personal Card;Customer workshop;London, UK
+T00169;E149;Train;180,08;23.10.2025;Deutsche Bahn;Yes;Corporate Card;Business trip;Krakow, Poland
+T00039;E113;Breakfast;15,21;24.06.2025;Zebra Cafe;No;Personal Card;Early client workshop;Berlin, Germany
+T00095;E123;Lunch;55,82;17.09.2025;Pret A Manger;Yes;Corporate Card;Internal meeting;Berlin, Germany
+T00281;E170;Breakfast;36,94;28.03.2025;Galeria Wypiekow;Yes;Corporate Card;Early client workshop;Paris, France
+T00253;E167;Hotel;274,11;17.06.2025;ibis;Yes;Corporate Card;Conference attendance;Vienna, Austria
+T00027;E111;Airfare;839,55;14.08.2025;SAS;Yes;Corporate Card;Business trip;Krakow, Poland
+T00172;E151;Hotel;129,5;14.01.2025;Marriott;Yes;Personal Card;Campaign event;Warsaw, Poland
+T00109;E130;Train;73,3;23.09.2025;SNCF;Yes;Corporate Card;Project workshop;Prague, Czech Republic
+T00088;E123;Dinner;87,86;2.04.2025;Local Restaurant;Yes;Corporate Card;Business trip;Berlin, Germany
+T00242;E159;Airfare;693,8;11.07.2025;Austrian Airlines;Yes;Personal Card;HR conference;Krakow, Poland
+T00286;E170;Airfare;833,8;28.04.2025;Wizz Air;No;Corporate Card;Training;Paris, France
+T00159;E143;Hotel;203,7;11.03.2025;Holiday Inn;Yes;Corporate Card;Sales visit;London, UK
+T00256;E167;Dinner;71,88;22.07.2025;Bistro Central;Yes;Personal Card;Project milestone dinner;Wroclaw, Poland
+T00225;E157;Hotel;352,41;3.02.2025;Novotel;No;Corporate Card;Agency workshop;Warsaw, Poland
+T00100;E125;Train;102,74;25.08.2025;PKP Intercity;Yes;Corporate Card;Customer visit;Berlin, Germany
+T00294;E170;Dinner;60,36;18.11.2025;Whisky in the Jar;Yes;Corporate Card;Partner meeting;London, UK
+T00072;E121;Airfare;909,41;29.07.2025;Lufthansa;Yes;Corporate Card;Agency workshop;London, UK
+T00255;E167;Lunch;31,43;5.05.2025;Sphinx;Yes;Corporate Card;Partner meeting;Vienna, Austria
+T00230;E158;Dinner;99,84;15.09.2025;Whisky in the Jar;Yes;Corporate Card;Business trip;Munich, Germany
+T00173;E151;Airfare;570,86;3.02.2025;Brussels Airlines;Yes;Corporate Card;Conference attendance;Warsaw, Poland
+T00300;E171;Airfare;1166,83;8.08.2025;Lufthansa;Yes;Personal Card;Training;London, UK
+T00062;E116;Lunch;29,68;2.09.2025;Bistro Warszawa;Yes;Corporate Card;Supplier meeting;Paris, France
+T00011;E106;Hotel;131,95;19.09.2025;Motel One;No;Corporate Card;Conference attendance;Krakow, Poland
+T00050;E114;Taxi/Rideshare;83,86;10.04.2025;iTaxi;Yes;Corporate Card;Business trip;Berlin, Germany
+T00178;E153;Hotel;202,62;15.05.2025;NH Hotels;Yes;Corporate Card;Business trip;London, UK
+T00284;E170;Taxi/Rideshare;51,85;17.11.2025;iTaxi;Yes;Corporate Card;Conference attendance;London, UK
+T00247;E161;Hotel;184,05;5.03.2025;Marriott;Yes;Corporate Card;Customer visit;Vienna, Austria
+T00226;E157;Hotel;232,67;28.05.2025;ibis;Yes;Corporate Card;Conference attendance;Warsaw, Poland
+T00038;E112;Airfare;736,76;25.07.2025;LOT Polish Airlines;Yes;Corporate Card;Project workshop;Frankfurt, Germany
+T00131;E139;Lunch;28,08;7.07.2025;Bistro Warszawa;No;Corporate Card;Agency meeting;Warsaw, Poland
+T00036;E111;Train;177,8;23.07.2025;Italo;Yes;Personal Card;Business trip;Paris, France
+T00235;E159;Airfare;882,02;12.08.2025;Air France;Yes;Corporate Card;HR conference;Krakow, Poland
+T00232;E158;Breakfast;19,34;28.04.2025;Cafe Nero;Yes;Corporate Card;Travel to customer site;Berlin, Germany
+T00115;E134;Train;97,06;14.07.2025;ČD Railways;Yes;Personal Card;Training;Vienna, Austria
+T00089;E123;Lunch;53,12;11.04.2025;Greenway;Yes;Corporate Card;Internal meeting;Prague, Czech Republic
+T00126;E138;Lunch;18,41;8.10.2025;North Fish;Yes;Personal Card;Project workshop;Krakow, Poland
+T00224;E157;Breakfast;35,34;13.03.2025;Hotel Breakfast;Yes;Corporate Card;Conference attendance;Berlin, Germany
+T00043;E114;Lunch;26,31;15.12.2025;Restauracja Polska;Yes;Corporate Card;Internal meeting;Amsterdam, Netherlands
+T00261;E169;Dinner;69,66;15.04.2025;Nobu Warsaw;Yes;Corporate Card;Client dinner;Dublin, Ireland
+T00164;E144;Airfare;821,99;18.02.2025;KLM;Yes;Corporate Card;Customer visit;Frankfurt, Germany
+T00005;E103;Dinner;63,5;9.07.2025;Der Elefant;Yes;Corporate Card;Team dinner;Wroclaw, Poland
+T00098;E123;Lunch;58,08;22.01.2025;Vapiano;Yes;Personal Card;Internal meeting;Amsterdam, Netherlands
+T00028;E111;Airfare;611,46;12.09.2025;Brussels Airlines;Yes;Corporate Card;HR conference;Krakow, Poland
+T00187;E157;Taxi/Rideshare;22,89;26.07.2025;iTaxi;Yes;Corporate Card;Travel between offices;Warsaw, Poland
+T00116;E134;Dinner;32,79;14.03.2025;Aioli;Yes;Personal Card;Project milestone dinner;Warsaw, Poland
+T00192;E157;Dinner;65,43;18.11.2025;Aioli;Yes;Personal Card;Agency dinner;Prague, Czech Republic
+T00079;E121;Airfare;506,33;14.07.2025;British Airways;Yes;Corporate Card;Campaign event;Vienna, Austria
+T00273;E169;Airfare;465,82;14.03.2025;Austrian Airlines;Yes;Corporate Card;Campaign event;Edinburgh, UK
+T00082;E122;Lunch;46,2;1.08.2025;Greenway;Yes;Corporate Card;Team lunch;Gdansk, Poland
+T00145;E141;Lunch;60,86;7.03.2025;Food Hall;Yes;Corporate Card;HR workshop;Frankfurt, Germany
+T00047;E114;Airfare;458,36;24.07.2025;KLM;Yes;Corporate Card;Project workshop;London, UK
+T00060;E115;Train;128,52;28.10.2025;Italo;Yes;Corporate Card;Business trip;Berlin, Germany
+T00096;E123;Lunch;41,04;4.06.2025;Local Bistro;Yes;Corporate Card;HR workshop;Prague, Czech Republic
+T00267;E169;Hotel;134,15;5.09.2025;Novotel;Yes;Corporate Card;Campaign event;Dublin, Ireland
+T00240;E159;Train;102,55;26.03.2025;Deutsche Bahn;Yes;Corporate Card;Business trip;Wroclaw, Poland
+T00017;E108;Dinner;84,88;3.06.2025;Whisky in the Jar;Yes;Corporate Card;Customer workshop;Wroclaw, Poland
+T00233;E158;Dinner;59,71;7.03.2025;Restauracja Polska;Yes;Personal Card;Business trip;Frankfurt, Germany
+T00093;E123;Train;162,32;16.01.2025;Leo Express;Yes;Corporate Card;Conference attendance;Hamburg, Germany
+T00295;E170;Dinner;41,43;6.07.2025;Restauracja Polska;Yes;Corporate Card;Supplier meeting;Gdansk, Poland
+T00292;E170;Airfare;932,36;18.08.2025;Austrian Airlines;Yes;Corporate Card;Business trip;Paris, France
+T00102;E126;Taxi/Rideshare;68,26;20.05.2025;mytaxi;Yes;Corporate Card;Travel between offices;Frankfurt, Germany
+T00105;E126;Lunch;14,12;4.11.2025;Pret A Manger;Yes;Corporate Card;Supplier meeting;Vienna, Austria
+T00111;E130;Dinner;52,57;17.12.2025;Hotel Restaurant;Yes;Corporate Card;Supplier meeting;Warsaw, Poland
+T00046;E114;Dinner;68,59;3.09.2025;Hard Rock Cafe;Yes;Corporate Card;Team dinner;Berlin, Germany
+T00288;E170;Dinner;90,52;9.07.2025;Stary Dom;Yes;Personal Card;Supplier meeting;Prague, Czech Republic
+T00136;E141;Hotel;273,59;21.07.2025;NH Hotels;Yes;Corporate Card;Training;Amsterdam, Netherlands
+T00035;E111;Hotel;383,93;30.01.2025;Leonardo Hotels;Yes;Corporate Card;Training;Warsaw, Poland
+T00013;E107;Airfare;394,13;3.02.2025;LOT Polish Airlines;Yes;Personal Card;Conference attendance;Prague, Czech Republic
+T00083;E122;Dinner;32,69;21.07.2025;Concept 13;No;Corporate Card;Supplier meeting;Gdansk, Poland
+T00162;E144;Lunch;35,47;15.04.2025;Jeff's;Yes;Corporate Card;Internal meeting;Hamburg, Germany
+T00199;E157;Hotel;238,48;6.11.2025;Sheraton;Yes;Corporate Card;Campaign event;London, UK
+T00002;E103;Train;126,39;19.02.2025;Italo;Yes;Corporate Card;Business trip;Warsaw, Poland
+T00196;E157;Hotel;279,62;24.04.2025;Novotel;Yes;Personal Card;Training;Berlin, Germany
+T00029;E111;Taxi/Rideshare;52,31;25.06.2025;Bolt;Yes;Corporate Card;Customer visit;London, UK
+T00037;E112;Dinner;51,68;12.03.2025;Stary Dom;Yes;Personal Card;Team dinner;Munich, Germany
+T00130;E139;Hotel;373,27;11.03.2025;Marriott;Yes;Corporate Card;Agency workshop;Warsaw, Poland
+T00252;E167;Lunch;60,2;28.10.2025;Pret A Manger;Yes;Corporate Card;Client meeting;Warsaw, Poland
+T00121;E135;Hotel;217,63;2.12.2025;Courtyard by Marriott;Yes;Personal Card;HR conference;Krakow, Poland
+T00222;E157;Dinner;98,07;27.06.2025;Der Elefant;Yes;Corporate Card;Customer workshop;Krakow, Poland
+T00019;E108;Lunch;42,54;4.07.2025;Vapiano;Yes;Corporate Card;Project workshop;Warsaw, Poland
+T00057;E115;Taxi/Rideshare;52,74;24.07.2025;Taxi Berlin;Yes;Personal Card;Customer visit;Hamburg, Germany
+T00051;E114;Lunch;23,62;5.02.2025;Sphinx;Yes;Corporate Card;Customer workshop;Edinburgh, UK
+T00278;E170;Breakfast;15,38;24.11.2025;Paul;No;Corporate Card;Internal meeting;Krakow, Poland
+T00289;E170;Dinner;63,43;3.10.2025;Nobu Warsaw;Yes;Corporate Card;Supplier meeting;Paris, France
+T00241;E159;Airfare;471,33;29.10.2025;Ryanair;Yes;Corporate Card;Business trip;Warsaw, Poland
+T00270;E169;Airfare;874,08;12.12.2025;SAS;Yes;Personal Card;Client visit;Amsterdam, Netherlands
+T00238;E159;Dinner;28,62;28.02.2025;Local Restaurant;Yes;Corporate Card;Business trip;Gdansk, Poland
+T00237;E159;Lunch;23,51;28.10.2025;Restauracja Polska;No;Corporate Card;HR workshop;Wroclaw, Poland
+T00090;E123;Taxi/Rideshare;89,27;14.05.2025;Taxi Berlin;No;Corporate Card;Customer visit;Prague, Czech Republic
+T00032;E111;Taxi/Rideshare;50,08;25.07.2025;Taxi Berlin;Yes;Personal Card;Client meeting;Prague, Czech Republic
+T00280;E170;Airfare;911,13;20.01.2025;Wizz Air;Yes;Corporate Card;Training;Vienna, Austria
+T00200;E157;Dinner;54,47;22.09.2025;Concept 13;Yes;Corporate Card;Customer workshop;Gdansk, Poland
+T00128;E138;Dinner;69,21;14.07.2025;Der Elefant;Yes;Personal Card;Client dinner;Gdansk, Poland
+T00265;E169;Lunch;23,11;3.03.2025;Bistro Warszawa;Yes;Corporate Card;Customer workshop;Paris, France
+T00066;E117;Lunch;14,56;29.07.2025;Aioli;No;Corporate Card;Conference attendance;Krakow, Poland
+T00154;E143;Lunch;29,82;14.10.2025;Restauracja Polska;Yes;Personal Card;Business trip;Dublin, Ireland
+T00211;E157;Taxi/Rideshare;48,51;9.04.2025;City Taxi;Yes;Corporate Card;Conference attendance;Vienna, Austria
+T00080;E121;Taxi/Rideshare;27,72;7.02.2025;mytaxi;Yes;Corporate Card;Customer visit;Wroclaw, Poland
+T00177;E153;Lunch;21,53;31.03.2025;North Fish;Yes;Corporate Card;Internal meeting;Krakow, Poland
+T00176;E153;Taxi/Rideshare;32,77;18.09.2025;mytaxi;Yes;Corporate Card;Conference attendance;Prague, Czech Republic
+T00139;E141;Hotel;271,72;9.05.2025;Radisson Blu;Yes;Personal Card;Project workshop;Hamburg, Germany
+T00271;E169;Breakfast;17,3;12.11.2025;Cafe Nero;Yes;Corporate Card;Client meeting;Manchester, UK
+T00125;E137;Lunch;16,33;9.09.2025;Greenway;Yes;Corporate Card;Prospect meeting;Prague, Czech Republic
+T00244;E160;Train;125,61;10.10.2025;PKP Intercity;Yes;Corporate Card;Customer visit;Berlin, Germany
+T00045;E114;Dinner;57,56;7.08.2025;Der Elefant;Yes;Corporate Card;Team dinner;Amsterdam, Netherlands
+T00279;E170;Lunch;36,7;18.02.2025;Local Bistro;Yes;Corporate Card;Internal meeting;Warsaw, Poland
+T00071;E121;Hotel;249,6;22.05.2025;Motel One;No;Personal Card;Agency workshop;Gdansk, Poland
+T00283;E170;Dinner;45,77;28.05.2025;Nobu Warsaw;Yes;Personal Card;Audit meeting;Warsaw, Poland
+T00085;E122;Airfare;1339,25;12.02.2025;Austrian Airlines;Yes;Corporate Card;Project workshop;Berlin, Germany
+T00040;E113;Breakfast;12,87;28.04.2025;Galeria Wypiekow;Yes;Corporate Card;Travel to customer site;London, UK
+T00221;E157;Train;137,97;17.09.2025;Leo Express;Yes;Personal Card;Conference attendance;Paris, France
+T00070;E121;Airfare;459,45;17.11.2025;Brussels Airlines;Yes;Corporate Card;Customer visit;Warsaw, Poland
+T00009;E106;Dinner;38,55;11.08.2025;Stary Dom;Yes;Personal Card;Conference attendance;Krakow, Poland
+T00006;E105;Airfare;596,37;18.03.2025;easyJet;Yes;Corporate Card;HR conference;London, UK
+T00231;E158;Hotel;356,06;12.03.2025;Holiday Inn;Yes;Corporate Card;Finance workshop;Prague, Czech Republic
+T00087;E123;Hotel;258,46;23.09.2025;Mercure;Yes;Corporate Card;HR conference;Frankfurt, Germany
+T00142;E141;Breakfast;17,54;20.01.2025;Green Caffe Nero;Yes;Corporate Card;Travel to customer site;Warsaw, Poland
+T00008;E105;Airfare;328,29;4.03.2025;Lufthansa;No;Corporate Card;Customer visit;Prague, Czech Republic
+T00266;E169;Airfare;524,57;13.10.2025;KLM;Yes;Corporate Card;Agency workshop;London, UK
+T00004;E103;Train;49,25;12.03.2025;ÖBB;Yes;Personal Card;Internal meeting;Warsaw, Poland
+T00134;E140;Lunch;22,85;18.06.2025;Aioli;Yes;Personal Card;Audit meeting;Paris, France
+T00030;E111;Dinner;89,97;21.10.2025;Soul Kitchen;No;Corporate Card;Team dinner;Berlin, Germany
+T00023;E109;Hotel;112,64;24.04.2025;Sheraton;Yes;Corporate Card;Agency workshop;Prague, Czech Republic
+T00254;E167;Hotel;318,68;4.04.2025;NH Hotels;Yes;Personal Card;Conference attendance;Krakow, Poland
+T00184;E157;Lunch;26,03;6.08.2025;Zabka;Yes;Corporate Card;Partner meeting;Krakow, Poland
+T00103;E126;Dinner;61,61;29.05.2025;Bistro Central;Yes;Corporate Card;Project workshop;Amsterdam, Netherlands
+T00094;E123;Dinner;85,48;15.04.2025;Whisky in the Jar;Yes;Corporate Card;Business trip;Frankfurt, Germany
+T00257;E168;Airfare;1063,06;14.05.2025;SAS;Yes;Corporate Card;Business trip;Warsaw, Poland
+T00203;E157;Lunch;54,45;4.08.2025;Restauracja Polska;No;Corporate Card;Partner meeting;London, UK
+T00053;E114;Airfare;322,31;13.01.2025;Air France;Yes;Corporate Card;Training;Edinburgh, UK
+T00003;E103;Breakfast;11,94;1.09.2025;Galeria Wypiekow;No;Personal Card;Conference attendance;London, UK
+T00033;E111;Airfare;735,18;20.10.2025;British Airways;Yes;Corporate Card;Training;Vienna, Austria
+T00291;E170;Dinner;60,89;16.05.2025;Concept 13;Yes;Corporate Card;Business trip;Wroclaw, Poland
+T00216;E157;Hotel;225,19;14.03.2025;Motel One;Yes;Corporate Card;Agency workshop;Vienna, Austria
+T00056;E114;Airfare;580,77;22.01.2025;KLM;Yes;Corporate Card;Customer visit;Berlin, Germany
+T00076;E121;Train;120,81;18.12.2025;SNCF;No;Corporate Card;Business trip;Wroclaw, Poland
+T00007;E105;Airfare;936,27;6.10.2025;Brussels Airlines;Yes;Corporate Card;Business trip;Berlin, Germany
+T00210;E157;Taxi/Rideshare;60,8;10.12.2025;Taxi Berlin;Yes;Corporate Card;Late return from client meeting;Berlin, Germany
+T00068;E117;Hotel;189,71;29.05.2025;Radisson Blu;No;Personal Card;HR conference;Vienna, Austria
+T00123;E135;Airfare;1155,77;23.07.2025;Wizz Air;No;Corporate Card;Supplier meeting;Gdansk, Poland
+T00064;E116;Lunch;43,45;6.11.2025;Local Bistro;Yes;Corporate Card;Internal meeting;Gdansk, Poland
+T00024;E111;Lunch;21,25;13.06.2025;Aioli;Yes;Corporate Card;Business trip;London, UK
+T00151;E143;Airfare;858,47;8.10.2025;Ryanair;Yes;Personal Card;Customer visit;Edinburgh, UK
+T00212;E157;Hotel;141,91;18.02.2025;Sheraton;Yes;Personal Card;Business trip;Vienna, Austria
+T00069;E119;Lunch;58,14;12.08.2025;Restauracja Polska;Yes;Corporate Card;Internal meeting;Vienna, Austria
+T00274;E169;Dinner;26,19;29.07.2025;Local Restaurant;Yes;Corporate Card;Client dinner;Amsterdam, Netherlands
+T00191;E157;Airfare;722,61;6.08.2025;LOT Polish Airlines;Yes;Personal Card;Business trip;Prague, Czech Republic
+T00217;E157;Taxi/Rideshare;85,72;20.06.2025;City Taxi;Yes;Corporate Card;Airport transfer;Wroclaw, Poland
+T00099;E124;Taxi/Rideshare;45,57;19.11.2025;Taxi Warsaw;Yes;Personal Card;Customer visit;Wroclaw, Poland
+T00195;E157;Airfare;620,41;12.05.2025;Wizz Air;Yes;Corporate Card;Sales visit;Berlin, Germany
+T00120;E135;Lunch;59,77;4.09.2025;North Fish;No;Corporate Card;Internal meeting;Berlin, Germany
+T00114;E133;Airfare;679,39;27.01.2025;LOT Polish Airlines;Yes;Corporate Card;Customer visit;Berlin, Germany
+T00182;E157;Taxi/Rideshare;44,83;6.02.2025;mytaxi;Yes;Personal Card;Travel between offices;Wroclaw, Poland
+T00041;E113;Hotel;352,57;24.03.2025;Radisson Blu;Yes;Corporate Card;Conference attendance;Prague, Czech Republic
+T00287;E170;Lunch;53,73;19.05.2025;Pret A Manger;Yes;Corporate Card;Internal meeting;Berlin, Germany
+T00290;E170;Lunch;60,17;11.12.2025;Aioli;Yes;Corporate Card;Audit meeting;Krakow, Poland
+T00052;E114;Hotel;195,44;8.09.2025;Mercure;Yes;Personal Card;Supplier meeting;Amsterdam, Netherlands
+T00157;E143;Dinner;47,04;5.11.2025;Der Elefant;Yes;Corporate Card;Client dinner;Paris, France
+T00016;E108;Lunch;32,45;10.01.2025;Local Bistro;No;Corporate Card;Customer workshop;Krakow, Poland
+T00275;E169;Breakfast;13,93;27.03.2025;Paul;Yes;Corporate Card;Client meeting;Paris, France
+T00155;E143;Airfare;878,29;2.07.2025;Ryanair;Yes;Personal Card;Customer visit;Berlin, Germany
+T00091;E123;Lunch;35,93;5.08.2025;Zabka;Yes;Corporate Card;HR workshop;Hamburg, Germany
+T00264;E169;Airfare;1631,75;30.01.2025;Austrian Airlines;Yes;Corporate Card;Agency workshop;Edinburgh, UK
+T00209;E157;Train;109,18;28.04.2025;SNCF;Yes;Corporate Card;Training;Vienna, Austria
+T00218;E157;Airfare;521,55;6.02.2025;SAS;No;Corporate Card;Client visit;London, UK
+T00141;E141;Train;162,09;29.07.2025;ČD Railways;Yes;Corporate Card;Supplier meeting;Frankfurt, Germany
+T00020;E108;Hotel;277,65;31.10.2025;Holiday Inn;Yes;Corporate Card;Customer visit;Gdansk, Poland
+T00055;E114;Dinner;80,11;12.08.2025;Hotel Restaurant;Yes;Personal Card;Partner meeting;Berlin, Germany
+T00104;E126;Dinner;85,3;20.10.2025;Concept 13;Yes;Personal Card;Customer workshop;Munich, Germany
+T00202;E157;Airfare;928,43;19.12.2025;Brussels Airlines;Yes;Corporate Card;Campaign event;Warsaw, Poland
+T00215;E157;Train;129,86;27.11.2025;RegioJet;Yes;Corporate Card;Internal meeting;Paris, France
+T00174;E151;Dinner;46,15;21.11.2025;Hotel Restaurant;No;Corporate Card;Agency dinner;Vienna, Austria
+T00223;E157;Train;68,8;20.05.2025;Deutsche Bahn;Yes;Corporate Card;Customer visit;Paris, France
+T00171;E151;Airfare;307,34;20.03.2025;Ryanair;Yes;Corporate Card;Campaign event;Munich, Germany
+T00110;E130;Dinner;38,51;16.05.2025;Stary Dom;Yes;Corporate Card;Business trip;London, UK
+T00302;E171;Dinner;87,38;6.01.2025;Concept 13;Yes;Personal Card;HR workshop;Dublin, Ireland
+T00156;E143;Train;158,72;24.01.2025;PKP Intercity;Yes;Corporate Card;Supplier meeting;Paris, France
+T00073;E121;Airfare;375,89;24.03.2025;Air France;Yes;Corporate Card;Conference attendance;Prague, Czech Republic
+T00299;E171;Airfare;477,37;1.08.2025;Wizz Air;Yes;Corporate Card;Customer visit;London, UK
+T00190;E157;Taxi/Rideshare;49,98;28.04.2025;iTaxi;Yes;Corporate Card;Conference attendance;Paris, France
+T00219;E157;Lunch;52,78;30.04.2025;Food Hall;Yes;Corporate Card;Partner meeting;Paris, France
+T00129;E139;Airfare;439,43;4.04.2025;KLM;Yes;Personal Card;Conference attendance;Gdansk, Poland
+T00112;E132;Lunch;46,36;7.03.2025;Aioli;Yes;Corporate Card;Internal meeting;Wroclaw, Poland
+T00075;E121;Lunch;35,91;27.02.2025;Zabka;Yes;Personal Card;Agency meeting;Berlin, Germany
+T00189;E157;Breakfast;19,47;26.02.2025;Zebra Cafe;Yes;Corporate Card;Early client workshop;Vienna, Austria
+T00117;E134;Taxi/Rideshare;48,02;5.08.2025;Taxi Berlin;Yes;Personal Card;Conference attendance;Hamburg, Germany
+T00049;E114;Taxi/Rideshare;24,53;3.10.2025;mytaxi;Yes;Corporate Card;Travel between offices;Manchester, UK
+T00133;E140;Airfare;1013,23;23.09.2025;easyJet;Yes;Corporate Card;Customer visit;Dublin, Ireland
+T00086;E122;Airfare;609,22;28.07.2025;Austrian Airlines;Yes;Corporate Card;Training;Krakow, Poland
+T00018;E108;Breakfast;12,86;10.11.2025;Galeria Wypiekow;Yes;Personal Card;Client meeting;Wroclaw, Poland
+T00180;E153;Hotel;107,27;16.11.2025;Sheraton;Yes;Corporate Card;Business trip;Vienna, Austria
+T00081;E121;Train;128,97;13.03.2025;SNCF;Yes;Corporate Card;Supplier meeting;Berlin, Germany
+T00293;E170;Dinner;81,29;10.03.2025;Soul Kitchen;Yes;Corporate Card;Team dinner;Vienna, Austria
+T00150;E142;Hotel;237,56;21.03.2025;Mercure;Yes;Corporate Card;Sales visit;Paris, France
+T00197;E157;Dinner;47,13;18.04.2025;Whisky in the Jar;Yes;Corporate Card;Conference attendance;Krakow, Poland
+T00067;E117;Taxi/Rideshare;86,38;23.05.2025;iTaxi;Yes;Corporate Card;Travel between offices;Prague, Czech Republic
+T00166;E146;Breakfast;23,5;29.07.2025;Paul;Yes;Corporate Card;Travel to customer site;Warsaw, Poland
+T00044;E114;Taxi/Rideshare;56,93;27.11.2025;Taxi Berlin;Yes;Corporate Card;Airport transfer;Manchester, UK
+T00251;E167;Lunch;58,73;20.03.2025;North Fish;Yes;Personal Card;Prospect meeting;Wroclaw, Poland
+T00298;E170;Dinner;58,49;17.11.2025;Local Restaurant;Yes;Corporate Card;Audit meeting;Wroclaw, Poland
+T00149;E142;Hotel;154,2;30.09.2025;NH Hotels;Yes;Corporate Card;Supplier visit;Berlin, Germany
+T00272;E169;Airfare;847,72;26.11.2025;Air France;Yes;Corporate Card;Agency workshop;London, UK
+T00077;E121;Lunch;31,2;30.06.2025;North Fish;No;Corporate Card;Customer workshop;London, UK
+T00239;E159;Airfare;591,86;7.03.2025;Lufthansa;Yes;Corporate Card;HR conference;Gdansk, Poland
+T00268;E169;Hotel;137,69;11.09.2025;Holiday Inn;Yes;Personal Card;Conference attendance;Paris, France
+T00108;E130;Dinner;44,26;25.11.2025;Hotel Restaurant;Yes;Corporate Card;Business trip;Krakow, Poland
+T00260;E168;Airfare;323,75;14.02.2025;British Airways;No;Corporate Card;Training;Vienna, Austria
+T00168;E146;Lunch;41,17;24.10.2025;Pret A Manger;Yes;Corporate Card;Customer workshop;Paris, France
+T00181;E153;Hotel;359,96;10.04.2025;Motel One;Yes;Corporate Card;Training;Krakow, Poland
+T00277;E169;Train;136,01;6.08.2025;Eurostar;Yes;Corporate Card;Customer visit;Berlin, Germany
+T00163;E144;Airfare;1136,96;3.11.2025;Lufthansa;Yes;Personal Card;Supplier meeting;Amsterdam, Netherlands
+T00059;E115;Dinner;55,03;28.10.2025;Nobu Warsaw;Yes;Corporate Card;Client dinner;Vienna, Austria
+T00106;E126;Airfare;903,69;17.06.2025;Brussels Airlines;Yes;Corporate Card;Training;Frankfurt, Germany
