@@ -1,0 +1,303 @@
+﻿transaction_id;employee_id;name;department;region;category;amount;date;payment_method;business_purpose;location;Policy_Limit;Excess_Amount;Policy_Violation;Missing_Receipt;Personal_Card_Flag;Compliance_Status
+T00234;E158;Shirley Stewart;Finance;Berlin, Germany;Train;120,71;1.10.2025;Corporate Card;Business trip;Berlin, Germany;150;0;0;0;0;OK
+T00167;E146;Deborah Rivera;Finance;Warsaw, Poland;Hotel;118,27;27.02.2025;Corporate Card;Finance workshop;London, UK;300;0;0;0;0;OK
+T00214;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Breakfast;15,83;23.07.2025;Corporate Card;Client meeting;London, UK;30;0;0;1;0;Review
+T00258;E168;Frank Cooper;Engineering;Berlin, Germany;Taxi/Rideshare;59,98;23.10.2025;Personal Card;Late return from client meeting;Prague, Czech Republic;75;0;0;0;1;Review
+T00010;E106;Jennifer Garcia;Operations;Warsaw, Poland;Dinner;53,45;21.04.2025;Corporate Card;Business trip;Prague, Czech Republic;75;0;0;0;0;OK
+T00152;E143;Kevin Nelson;Sales;London, UK;Lunch;27,01;20.06.2025;Corporate Card;Customer workshop;Amsterdam, Netherlands;50;0;0;0;0;OK
+T00179;E153;Timothy Campbell;HR;Warsaw, Poland;Hotel;119,45;30.06.2025;Personal Card;Business trip;Gdansk, Poland;300;0;0;0;1;Review
+T00119;E135;Paul Wright;HR;Warsaw, Poland;Dinner;36,96;12.08.2025;Personal Card;Team dinner;Gdansk, Poland;75;0;0;1;1;Review
+T00194;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;260,81;8.12.2025;Corporate Card;Project workshop;Krakow, Poland;300;0;0;0;0;OK
+T00229;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;962,1;2.06.2025;Corporate Card;Supplier meeting;Wroclaw, Poland;800;162,1;1;0;0;Review
+T00061;E116;Jessica Thomas;Finance;Warsaw, Poland;Airfare;907,48;5.05.2025;Corporate Card;Training;London, UK;800;107,48;1;0;0;Review
+T00296;E170;Raymond Cox;Finance;Warsaw, Poland;Breakfast;22,79;29.08.2025;Corporate Card;Client meeting;Krakow, Poland;30;0;0;0;0;OK
+T00065;E116;Jessica Thomas;Finance;Warsaw, Poland;Train;119,2;25.09.2025;Corporate Card;Internal meeting;Warsaw, Poland;150;0;0;1;0;Review
+T00012;E107;Michael Miller;Sales;Berlin, Germany;Dinner;40,9;18.06.2025;Corporate Card;Supplier meeting;Prague, Czech Republic;75;0;0;0;0;OK
+T00078;E121;Christopher Lee;Marketing;Warsaw, Poland;Breakfast;25,22;23.04.2025;Corporate Card;Internal meeting;Warsaw, Poland;30;0;0;0;0;OK
+T00160;E143;Kevin Nelson;Sales;London, UK;Dinner;31,53;25.09.2025;Corporate Card;Supplier meeting;Amsterdam, Netherlands;75;0;0;0;0;OK
+T00220;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Lunch;58,77;10.12.2025;Corporate Card;Client meeting;Wroclaw, Poland;50;8,77;1;0;0;Review
+T00186;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Train;173,61;17.11.2025;Personal Card;Business trip;London, UK;150;23,61;1;1;1;Review
+T00185;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;354,63;25.03.2025;Corporate Card;Conference attendance;Vienna, Austria;300;54,63;1;0;0;Review
+T00165;E146;Deborah Rivera;Finance;Warsaw, Poland;Lunch;56,55;13.05.2025;Corporate Card;Team lunch;London, UK;50;6,55;1;0;0;Review
+T00042;E114;Susan Wilson;Engineering;London, UK;Breakfast;19,69;26.06.2025;Corporate Card;Business trip;Berlin, Germany;30;0;0;1;0;Review
+T00259;E168;Frank Cooper;Engineering;Berlin, Germany;Airfare;913,42;26.04.2025;Corporate Card;Customer visit;Hamburg, Germany;800;113,42;1;0;0;Review
+T00025;E111;William Hernandez;HR;Warsaw, Poland;Dinner;68,89;10.11.2025;Personal Card;Team dinner;Krakow, Poland;75;0;0;0;1;Review
+T00170;E149;Edward Carter;Sales;Warsaw, Poland;Hotel;177,79;5.05.2025;Corporate Card;Conference attendance;Prague, Czech Republic;300;0;0;1;0;Review
+T00161;E143;Kevin Nelson;Sales;London, UK;Lunch;18,34;8.09.2025;Corporate Card;Customer workshop;London, UK;50;0;0;1;0;Review
+T00193;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;60,07;21.05.2025;Corporate Card;Late return from client meeting;Wroclaw, Poland;75;0;0;0;0;OK
+T00297;E170;Raymond Cox;Finance;Warsaw, Poland;Hotel;340,47;14.03.2025;Corporate Card;Finance workshop;Berlin, Germany;300;40,47;1;0;0;Review
+T00074;E121;Christopher Lee;Marketing;Warsaw, Poland;Dinner;52,17;7.04.2025;Corporate Card;Team dinner;Paris, France;75;0;0;1;0;Review
+T00285;E170;Raymond Cox;Finance;Warsaw, Poland;Airfare;579,71;8.04.2025;Personal Card;Training;Berlin, Germany;800;0;0;1;1;Review
+T00153;E143;Kevin Nelson;Sales;London, UK;Lunch;55;8.12.2025;Corporate Card;Client meeting;Amsterdam, Netherlands;50;5;1;0;0;Review
+T00063;E116;Jessica Thomas;Finance;Warsaw, Poland;Dinner;29,45;27.08.2025;Corporate Card;Project milestone dinner;London, UK;75;0;0;0;0;OK
+T00263;E169;Helen Richardson;Marketing;London, UK;Airfare;571,91;26.11.2025;Personal Card;Supplier meeting;Berlin, Germany;800;0;0;0;1;Review
+T00132;E140;Michelle Flores;Finance;London, UK;Lunch;22,62;19.03.2025;Personal Card;Business trip;Manchester, UK;50;0;0;0;1;Review
+T00148;E142;Amanda Adams;Operations;Warsaw, Poland;Airfare;318,76;17.01.2025;Corporate Card;Training;Vienna, Austria;800;0;0;0;0;OK
+T00092;E123;Daniel Thompson;HR;Berlin, Germany;Hotel;374,61;9.05.2025;Corporate Card;HR conference;Vienna, Austria;300;74,61;1;0;0;Review
+T00014;E107;Michael Miller;Sales;Berlin, Germany;Airfare;853,4;9.06.2025;Corporate Card;Customer visit;Munich, Germany;800;53,4;1;0;0;Review
+T00175;E153;Timothy Campbell;HR;Warsaw, Poland;Airfare;535,43;4.06.2025;Corporate Card;Supplier meeting;Paris, France;800;0;0;0;0;OK
+T00001;E103;Robert Williams;Marketing;Warsaw, Poland;Taxi/Rideshare;22,47;13.03.2025;Corporate Card;Travel between offices;Gdansk, Poland;75;0;0;1;0;Review
+T00140;E141;Kenneth Green;HR;Berlin, Germany;Lunch;30,74;20.06.2025;Corporate Card;Team lunch;Warsaw, Poland;50;0;0;0;0;OK
+T00201;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Dinner;60,47;12.09.2025;Corporate Card;Partner meeting;London, UK;75;0;0;0;0;OK
+T00236;E159;Ryan Sanchez;HR;Warsaw, Poland;Dinner;58,11;27.08.2025;Corporate Card;Candidate dinner;Vienna, Austria;75;0;0;0;0;OK
+T00147;E142;Amanda Adams;Operations;Warsaw, Poland;Breakfast;16,08;22.10.2025;Corporate Card;Conference attendance;Warsaw, Poland;30;0;0;0;0;OK
+T00031;E111;William Hernandez;HR;Warsaw, Poland;Train;173,53;7.07.2025;Corporate Card;Training;Warsaw, Poland;150;23,53;1;0;0;Review
+T00015;E108;Linda Davis;Engineering;Warsaw, Poland;Airfare;654,77;1.08.2025;Corporate Card;Training;Vienna, Austria;800;0;0;1;0;Review
+T00127;E138;Donna Nguyen;Engineering;Warsaw, Poland;Lunch;33,1;10.12.2025;Corporate Card;Conference attendance;Berlin, Germany;50;0;0;0;0;OK
+T00026;E111;William Hernandez;HR;Warsaw, Poland;Airfare;443,25;28.02.2025;Corporate Card;Business trip;Prague, Czech Republic;800;0;0;0;0;OK
+T00228;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Lunch;56,97;14.05.2025;Corporate Card;Supplier meeting;Vienna, Austria;50;6,97;1;0;0;Review
+T00183;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;33,74;24.01.2025;Corporate Card;Airport transfer;Warsaw, Poland;75;0;0;0;0;OK
+T00122;E135;Paul Wright;HR;Warsaw, Poland;Hotel;282,31;29.09.2025;Corporate Card;Training;Wroclaw, Poland;300;0;0;0;0;OK
+T00207;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;56,7;14.06.2025;Personal Card;Client meeting;Prague, Czech Republic;75;0;0;0;1;Review
+T00249;E163;Gary Cook;Marketing;Berlin, Germany;Train;71,73;7.11.2025;Corporate Card;Project workshop;Frankfurt, Germany;150;0;0;0;0;OK
+T00138;E141;Kenneth Green;HR;Berlin, Germany;Airfare;563,78;7.11.2025;Corporate Card;Business trip;Vienna, Austria;800;0;0;0;0;OK
+T00034;E111;William Hernandez;HR;Warsaw, Poland;Lunch;38,55;4.12.2025;Personal Card;Internal meeting;Vienna, Austria;50;0;0;0;1;Review
+T00282;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;30,02;10.12.2025;Personal Card;Team dinner;Paris, France;75;0;0;0;1;Review
+T00248;E161;Jacob Rogers;Sales;Berlin, Germany;Airfare;405,04;30.01.2025;Personal Card;Sales visit;Hamburg, Germany;800;0;0;0;1;Review
+T00101;E125;Matthew Harris;Sales;London, UK;Hotel;338,51;22.08.2025;Personal Card;Conference attendance;Amsterdam, Netherlands;300;38,51;1;0;1;Review
+T00188;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;141,4;17.11.2025;Corporate Card;Business trip;Vienna, Austria;300;0;0;0;0;OK
+T00269;E169;Helen Richardson;Marketing;London, UK;Dinner;43,19;6.08.2025;Corporate Card;Business trip;Dublin, Ireland;75;0;0;0;0;OK
+T00144;E141;Kenneth Green;HR;Berlin, Germany;Train;45,4;12.12.2025;Personal Card;Business trip;Hamburg, Germany;150;0;0;0;1;Review
+T00246;E161;Jacob Rogers;Sales;Berlin, Germany;Dinner;67,89;24.10.2025;Personal Card;Client dinner;Prague, Czech Republic;75;0;0;0;1;Review
+T00250;E163;Gary Cook;Marketing;Berlin, Germany;Breakfast;20,9;25.08.2025;Corporate Card;Travel to customer site;Warsaw, Poland;30;0;0;1;0;Review
+T00206;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;31,28;9.09.2025;Corporate Card;Late return from client meeting;Vienna, Austria;75;0;0;0;0;OK
+T00143;E141;Kenneth Green;HR;Berlin, Germany;Dinner;80,65;21.03.2025;Corporate Card;HR workshop;Munich, Germany;75;5,65;1;0;0;Review
+T00097;E123;Daniel Thompson;HR;Berlin, Germany;Lunch;18,12;19.03.2025;Corporate Card;Internal meeting;Vienna, Austria;50;0;0;1;0;Review
+T00048;E114;Susan Wilson;Engineering;London, UK;Train;173,25;1.08.2025;Personal Card;Supplier meeting;Manchester, UK;150;23,25;1;0;1;Review
+T00262;E169;Helen Richardson;Marketing;London, UK;Dinner;88,99;25.02.2025;Corporate Card;Client dinner;Manchester, UK;75;13,99;1;0;0;Review
+T00213;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;388;28.05.2025;Corporate Card;Conference attendance;Prague, Czech Republic;800;0;0;0;0;OK
+T00301;E171;Marie Howard;HR;London, UK;Hotel;122,21;27.10.2025;Corporate Card;Training;Edinburgh, UK;300;0;0;1;0;Review
+T00107;E127;Anthony Clark;Marketing;Warsaw, Poland;Taxi/Rideshare;49,24;13.10.2025;Corporate Card;Airport transfer;Gdansk, Poland;75;0;0;0;0;OK
+T00058;E115;Joseph Anderson;Marketing;Berlin, Germany;Dinner;54,18;3.09.2025;Corporate Card;Campaign planning dinner;Berlin, Germany;75;0;0;0;0;OK
+T00022;E109;David Rodriguez;Marketing;Berlin, Germany;Dinner;44,31;9.05.2025;Corporate Card;Agency dinner;Prague, Czech Republic;75;0;0;0;0;OK
+T00118;E134;Kimberly King;Finance;Berlin, Germany;Lunch;41,19;7.10.2025;Corporate Card;Audit meeting;Berlin, Germany;50;0;0;0;0;OK
+T00113;E133;Steven Allen;Marketing;London, UK;Hotel;234,67;22.08.2025;Corporate Card;Project workshop;Edinburgh, UK;300;0;0;0;0;OK
+T00124;E137;Andrew Torres;Sales;Berlin, Germany;Train;116,04;6.11.2025;Corporate Card;Project workshop;Frankfurt, Germany;150;0;0;0;0;OK
+T00054;E114;Susan Wilson;Engineering;London, UK;Lunch;52,9;12.05.2025;Corporate Card;Customer workshop;London, UK;50;2,9;1;0;0;Review
+T00208;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;37,52;9.05.2025;Corporate Card;Travel between offices;Prague, Czech Republic;75;0;0;0;0;OK
+T00245;E161;Jacob Rogers;Sales;Berlin, Germany;Taxi/Rideshare;41,87;23.04.2025;Corporate Card;Conference attendance;Warsaw, Poland;75;0;0;0;0;OK
+T00135;E140;Michelle Flores;Finance;London, UK;Breakfast;35,51;27.01.2025;Personal Card;Business trip;Manchester, UK;30;5,51;1;0;1;Review
+T00084;E122;Nancy Perez;Finance;Warsaw, Poland;Lunch;41,6;27.05.2025;Corporate Card;Supplier meeting;Gdansk, Poland;50;0;0;0;0;OK
+T00158;E143;Kevin Nelson;Sales;London, UK;Taxi/Rideshare;42,88;28.01.2025;Personal Card;Customer visit;Edinburgh, UK;75;0;0;0;1;Review
+T00227;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Dinner;27,01;3.06.2025;Corporate Card;Business trip;Wroclaw, Poland;75;0;0;0;0;OK
+T00198;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Breakfast;24,24;9.05.2025;Corporate Card;Business trip;Krakow, Poland;30;0;0;0;0;OK
+T00205;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;647,31;2.09.2025;Corporate Card;Training;London, UK;800;0;0;0;0;OK
+T00204;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;489,71;1.10.2025;Personal Card;Client visit;Vienna, Austria;800;0;0;0;1;Review
+T00137;E141;Kenneth Green;HR;Berlin, Germany;Hotel;354,38;10.07.2025;Corporate Card;Business trip;Frankfurt, Germany;300;54,38;1;0;0;Review
+T00146;E142;Amanda Adams;Operations;Warsaw, Poland;Dinner;49,47;1.08.2025;Corporate Card;Business trip;Prague, Czech Republic;75;0;0;0;0;OK
+T00021;E109;David Rodriguez;Marketing;Berlin, Germany;Dinner;78,28;16.01.2025;Corporate Card;Agency dinner;Prague, Czech Republic;75;3,28;1;0;0;Review
+T00243;E159;Ryan Sanchez;HR;Warsaw, Poland;Breakfast;23,35;26.11.2025;Corporate Card;Internal meeting;Vienna, Austria;30;0;0;0;0;OK
+T00276;E169;Helen Richardson;Marketing;London, UK;Dinner;85,79;18.04.2025;Personal Card;Customer workshop;London, UK;75;10,79;1;0;1;Review
+T00169;E149;Edward Carter;Sales;Warsaw, Poland;Train;180,08;23.10.2025;Corporate Card;Business trip;Krakow, Poland;150;30,08;1;0;0;Review
+T00039;E113;Richard Gonzalez;Sales;Warsaw, Poland;Breakfast;15,21;24.06.2025;Personal Card;Early client workshop;Berlin, Germany;30;0;0;1;1;Review
+T00095;E123;Daniel Thompson;HR;Berlin, Germany;Lunch;55,82;17.09.2025;Corporate Card;Internal meeting;Berlin, Germany;50;5,82;1;0;0;Review
+T00281;E170;Raymond Cox;Finance;Warsaw, Poland;Breakfast;36,94;28.03.2025;Corporate Card;Early client workshop;Paris, France;30;6,94;1;0;0;Review
+T00253;E167;Eric Bailey;Sales;Warsaw, Poland;Hotel;274,11;17.06.2025;Corporate Card;Conference attendance;Vienna, Austria;300;0;0;0;0;OK
+T00027;E111;William Hernandez;HR;Warsaw, Poland;Airfare;839,55;14.08.2025;Corporate Card;Business trip;Krakow, Poland;800;39,55;1;0;0;Review
+T00172;E151;Ronald Turner;Marketing;Berlin, Germany;Hotel;129,5;14.01.2025;Personal Card;Campaign event;Warsaw, Poland;300;0;0;0;1;Review
+T00109;E130;Sandra Robinson;Operations;Warsaw, Poland;Train;73,3;23.09.2025;Corporate Card;Project workshop;Prague, Czech Republic;150;0;0;0;0;OK
+T00088;E123;Daniel Thompson;HR;Berlin, Germany;Dinner;87,86;2.04.2025;Corporate Card;Business trip;Berlin, Germany;75;12,86;1;0;0;Review
+T00242;E159;Ryan Sanchez;HR;Warsaw, Poland;Airfare;693,8;11.07.2025;Personal Card;HR conference;Krakow, Poland;800;0;0;0;1;Review
+T00286;E170;Raymond Cox;Finance;Warsaw, Poland;Airfare;833,8;28.04.2025;Corporate Card;Training;Paris, France;800;33,8;1;1;0;Review
+T00159;E143;Kevin Nelson;Sales;London, UK;Hotel;203,7;11.03.2025;Corporate Card;Sales visit;London, UK;300;0;0;0;0;OK
+T00256;E167;Eric Bailey;Sales;Warsaw, Poland;Dinner;71,88;22.07.2025;Personal Card;Project milestone dinner;Wroclaw, Poland;75;0;0;0;1;Review
+T00225;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;352,41;3.02.2025;Corporate Card;Agency workshop;Warsaw, Poland;300;52,41;1;1;0;Review
+T00100;E125;Matthew Harris;Sales;London, UK;Train;102,74;25.08.2025;Corporate Card;Customer visit;Berlin, Germany;150;0;0;0;0;OK
+T00294;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;60,36;18.11.2025;Corporate Card;Partner meeting;London, UK;75;0;0;0;0;OK
+T00072;E121;Christopher Lee;Marketing;Warsaw, Poland;Airfare;909,41;29.07.2025;Corporate Card;Agency workshop;London, UK;800;109,41;1;0;0;Review
+T00255;E167;Eric Bailey;Sales;Warsaw, Poland;Lunch;31,43;5.05.2025;Corporate Card;Partner meeting;Vienna, Austria;50;0;0;0;0;OK
+T00230;E158;Shirley Stewart;Finance;Berlin, Germany;Dinner;99,84;15.09.2025;Corporate Card;Business trip;Munich, Germany;75;24,84;1;0;0;Review
+T00173;E151;Ronald Turner;Marketing;Berlin, Germany;Airfare;570,86;3.02.2025;Corporate Card;Conference attendance;Warsaw, Poland;800;0;0;0;0;OK
+T00300;E171;Marie Howard;HR;London, UK;Airfare;1166,83;8.08.2025;Personal Card;Training;London, UK;800;366,83;1;0;1;Review
+T00062;E116;Jessica Thomas;Finance;Warsaw, Poland;Lunch;29,68;2.09.2025;Corporate Card;Supplier meeting;Paris, France;50;0;0;0;0;OK
+T00011;E106;Jennifer Garcia;Operations;Warsaw, Poland;Hotel;131,95;19.09.2025;Corporate Card;Conference attendance;Krakow, Poland;300;0;0;1;0;Review
+T00050;E114;Susan Wilson;Engineering;London, UK;Taxi/Rideshare;83,86;10.04.2025;Corporate Card;Business trip;Berlin, Germany;75;8,86;1;0;0;Review
+T00178;E153;Timothy Campbell;HR;Warsaw, Poland;Hotel;202,62;15.05.2025;Corporate Card;Business trip;London, UK;300;0;0;0;0;OK
+T00284;E170;Raymond Cox;Finance;Warsaw, Poland;Taxi/Rideshare;51,85;17.11.2025;Corporate Card;Conference attendance;London, UK;75;0;0;0;0;OK
+T00247;E161;Jacob Rogers;Sales;Berlin, Germany;Hotel;184,05;5.03.2025;Corporate Card;Customer visit;Vienna, Austria;300;0;0;0;0;OK
+T00226;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;232,67;28.05.2025;Corporate Card;Conference attendance;Warsaw, Poland;300;0;0;0;0;OK
+T00038;E112;Barbara Lopez;Operations;Berlin, Germany;Airfare;736,76;25.07.2025;Corporate Card;Project workshop;Frankfurt, Germany;800;0;0;0;0;OK
+T00131;E139;Joshua Hill;Marketing;Warsaw, Poland;Lunch;28,08;7.07.2025;Corporate Card;Agency meeting;Warsaw, Poland;50;0;0;1;0;Review
+T00036;E111;William Hernandez;HR;Warsaw, Poland;Train;177,8;23.07.2025;Personal Card;Business trip;Paris, France;150;27,8;1;0;1;Review
+T00235;E159;Ryan Sanchez;HR;Warsaw, Poland;Airfare;882,02;12.08.2025;Corporate Card;HR conference;Krakow, Poland;800;82,02;1;0;0;Review
+T00232;E158;Shirley Stewart;Finance;Berlin, Germany;Breakfast;19,34;28.04.2025;Corporate Card;Travel to customer site;Berlin, Germany;30;0;0;0;0;OK
+T00115;E134;Kimberly King;Finance;Berlin, Germany;Train;97,06;14.07.2025;Personal Card;Training;Vienna, Austria;150;0;0;0;1;Review
+T00089;E123;Daniel Thompson;HR;Berlin, Germany;Lunch;53,12;11.04.2025;Corporate Card;Internal meeting;Prague, Czech Republic;50;3,12;1;0;0;Review
+T00126;E138;Donna Nguyen;Engineering;Warsaw, Poland;Lunch;18,41;8.10.2025;Personal Card;Project workshop;Krakow, Poland;50;0;0;0;1;Review
+T00224;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Breakfast;35,34;13.03.2025;Corporate Card;Conference attendance;Berlin, Germany;30;5,34;1;0;0;Review
+T00043;E114;Susan Wilson;Engineering;London, UK;Lunch;26,31;15.12.2025;Corporate Card;Internal meeting;Amsterdam, Netherlands;50;0;0;0;0;OK
+T00261;E169;Helen Richardson;Marketing;London, UK;Dinner;69,66;15.04.2025;Corporate Card;Client dinner;Dublin, Ireland;75;0;0;0;0;OK
+T00164;E144;Melissa Baker;Engineering;Berlin, Germany;Airfare;821,99;18.02.2025;Corporate Card;Customer visit;Frankfurt, Germany;800;21,99;1;0;0;Review
+T00005;E103;Robert Williams;Marketing;Warsaw, Poland;Dinner;63,5;9.07.2025;Corporate Card;Team dinner;Wroclaw, Poland;75;0;0;0;0;OK
+T00098;E123;Daniel Thompson;HR;Berlin, Germany;Lunch;58,08;22.01.2025;Personal Card;Internal meeting;Amsterdam, Netherlands;50;8,08;1;0;1;Review
+T00028;E111;William Hernandez;HR;Warsaw, Poland;Airfare;611,46;12.09.2025;Corporate Card;HR conference;Krakow, Poland;800;0;0;0;0;OK
+T00187;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;22,89;26.07.2025;Corporate Card;Travel between offices;Warsaw, Poland;75;0;0;0;0;OK
+T00116;E134;Kimberly King;Finance;Berlin, Germany;Dinner;32,79;14.03.2025;Personal Card;Project milestone dinner;Warsaw, Poland;75;0;0;0;1;Review
+T00192;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Dinner;65,43;18.11.2025;Personal Card;Agency dinner;Prague, Czech Republic;75;0;0;0;1;Review
+T00079;E121;Christopher Lee;Marketing;Warsaw, Poland;Airfare;506,33;14.07.2025;Corporate Card;Campaign event;Vienna, Austria;800;0;0;0;0;OK
+T00273;E169;Helen Richardson;Marketing;London, UK;Airfare;465,82;14.03.2025;Corporate Card;Campaign event;Edinburgh, UK;800;0;0;0;0;OK
+T00082;E122;Nancy Perez;Finance;Warsaw, Poland;Lunch;46,2;1.08.2025;Corporate Card;Team lunch;Gdansk, Poland;50;0;0;0;0;OK
+T00145;E141;Kenneth Green;HR;Berlin, Germany;Lunch;60,86;7.03.2025;Corporate Card;HR workshop;Frankfurt, Germany;50;10,86;1;0;0;Review
+T00047;E114;Susan Wilson;Engineering;London, UK;Airfare;458,36;24.07.2025;Corporate Card;Project workshop;London, UK;800;0;0;0;0;OK
+T00060;E115;Joseph Anderson;Marketing;Berlin, Germany;Train;128,52;28.10.2025;Corporate Card;Business trip;Berlin, Germany;150;0;0;0;0;OK
+T00096;E123;Daniel Thompson;HR;Berlin, Germany;Lunch;41,04;4.06.2025;Corporate Card;HR workshop;Prague, Czech Republic;50;0;0;0;0;OK
+T00267;E169;Helen Richardson;Marketing;London, UK;Hotel;134,15;5.09.2025;Corporate Card;Campaign event;Dublin, Ireland;300;0;0;0;0;OK
+T00240;E159;Ryan Sanchez;HR;Warsaw, Poland;Train;102,55;26.03.2025;Corporate Card;Business trip;Wroclaw, Poland;150;0;0;0;0;OK
+T00017;E108;Linda Davis;Engineering;Warsaw, Poland;Dinner;84,88;3.06.2025;Corporate Card;Customer workshop;Wroclaw, Poland;75;9,88;1;0;0;Review
+T00233;E158;Shirley Stewart;Finance;Berlin, Germany;Dinner;59,71;7.03.2025;Personal Card;Business trip;Frankfurt, Germany;75;0;0;0;1;Review
+T00093;E123;Daniel Thompson;HR;Berlin, Germany;Train;162,32;16.01.2025;Corporate Card;Conference attendance;Hamburg, Germany;150;12,32;1;0;0;Review
+T00295;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;41,43;6.07.2025;Corporate Card;Supplier meeting;Gdansk, Poland;75;0;0;0;0;OK
+T00292;E170;Raymond Cox;Finance;Warsaw, Poland;Airfare;932,36;18.08.2025;Corporate Card;Business trip;Paris, France;800;132,36;1;0;0;Review
+T00102;E126;Betty Sanchez;Engineering;Berlin, Germany;Taxi/Rideshare;68,26;20.05.2025;Corporate Card;Travel between offices;Frankfurt, Germany;75;0;0;0;0;OK
+T00105;E126;Betty Sanchez;Engineering;Berlin, Germany;Lunch;14,12;4.11.2025;Corporate Card;Supplier meeting;Vienna, Austria;50;0;0;0;0;OK
+T00111;E130;Sandra Robinson;Operations;Warsaw, Poland;Dinner;52,57;17.12.2025;Corporate Card;Supplier meeting;Warsaw, Poland;75;0;0;0;0;OK
+T00046;E114;Susan Wilson;Engineering;London, UK;Dinner;68,59;3.09.2025;Corporate Card;Team dinner;Berlin, Germany;75;0;0;0;0;OK
+T00288;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;90,52;9.07.2025;Personal Card;Supplier meeting;Prague, Czech Republic;75;15,52;1;0;1;Review
+T00136;E141;Kenneth Green;HR;Berlin, Germany;Hotel;273,59;21.07.2025;Corporate Card;Training;Amsterdam, Netherlands;300;0;0;0;0;OK
+T00035;E111;William Hernandez;HR;Warsaw, Poland;Hotel;383,93;30.01.2025;Corporate Card;Training;Warsaw, Poland;300;83,93;1;0;0;Review
+T00013;E107;Michael Miller;Sales;Berlin, Germany;Airfare;394,13;3.02.2025;Personal Card;Conference attendance;Prague, Czech Republic;800;0;0;0;1;Review
+T00083;E122;Nancy Perez;Finance;Warsaw, Poland;Dinner;32,69;21.07.2025;Corporate Card;Supplier meeting;Gdansk, Poland;75;0;0;1;0;Review
+T00162;E144;Melissa Baker;Engineering;Berlin, Germany;Lunch;35,47;15.04.2025;Corporate Card;Internal meeting;Hamburg, Germany;50;0;0;0;0;OK
+T00199;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;238,48;6.11.2025;Corporate Card;Campaign event;London, UK;300;0;0;0;0;OK
+T00002;E103;Robert Williams;Marketing;Warsaw, Poland;Train;126,39;19.02.2025;Corporate Card;Business trip;Warsaw, Poland;150;0;0;0;0;OK
+T00196;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;279,62;24.04.2025;Personal Card;Training;Berlin, Germany;300;0;0;0;1;Review
+T00029;E111;William Hernandez;HR;Warsaw, Poland;Taxi/Rideshare;52,31;25.06.2025;Corporate Card;Customer visit;London, UK;75;0;0;0;0;OK
+T00037;E112;Barbara Lopez;Operations;Berlin, Germany;Dinner;51,68;12.03.2025;Personal Card;Team dinner;Munich, Germany;75;0;0;0;1;Review
+T00130;E139;Joshua Hill;Marketing;Warsaw, Poland;Hotel;373,27;11.03.2025;Corporate Card;Agency workshop;Warsaw, Poland;300;73,27;1;0;0;Review
+T00252;E167;Eric Bailey;Sales;Warsaw, Poland;Lunch;60,2;28.10.2025;Corporate Card;Client meeting;Warsaw, Poland;50;10,2;1;0;0;Review
+T00121;E135;Paul Wright;HR;Warsaw, Poland;Hotel;217,63;2.12.2025;Personal Card;HR conference;Krakow, Poland;300;0;0;0;1;Review
+T00222;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Dinner;98,07;27.06.2025;Corporate Card;Customer workshop;Krakow, Poland;75;23,07;1;0;0;Review
+T00019;E108;Linda Davis;Engineering;Warsaw, Poland;Lunch;42,54;4.07.2025;Corporate Card;Project workshop;Warsaw, Poland;50;0;0;0;0;OK
+T00057;E115;Joseph Anderson;Marketing;Berlin, Germany;Taxi/Rideshare;52,74;24.07.2025;Personal Card;Customer visit;Hamburg, Germany;75;0;0;0;1;Review
+T00051;E114;Susan Wilson;Engineering;London, UK;Lunch;23,62;5.02.2025;Corporate Card;Customer workshop;Edinburgh, UK;50;0;0;0;0;OK
+T00278;E170;Raymond Cox;Finance;Warsaw, Poland;Breakfast;15,38;24.11.2025;Corporate Card;Internal meeting;Krakow, Poland;30;0;0;1;0;Review
+T00289;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;63,43;3.10.2025;Corporate Card;Supplier meeting;Paris, France;75;0;0;0;0;OK
+T00241;E159;Ryan Sanchez;HR;Warsaw, Poland;Airfare;471,33;29.10.2025;Corporate Card;Business trip;Warsaw, Poland;800;0;0;0;0;OK
+T00270;E169;Helen Richardson;Marketing;London, UK;Airfare;874,08;12.12.2025;Personal Card;Client visit;Amsterdam, Netherlands;800;74,08;1;0;1;Review
+T00238;E159;Ryan Sanchez;HR;Warsaw, Poland;Dinner;28,62;28.02.2025;Corporate Card;Business trip;Gdansk, Poland;75;0;0;0;0;OK
+T00237;E159;Ryan Sanchez;HR;Warsaw, Poland;Lunch;23,51;28.10.2025;Corporate Card;HR workshop;Wroclaw, Poland;50;0;0;1;0;Review
+T00090;E123;Daniel Thompson;HR;Berlin, Germany;Taxi/Rideshare;89,27;14.05.2025;Corporate Card;Customer visit;Prague, Czech Republic;75;14,27;1;1;0;Review
+T00032;E111;William Hernandez;HR;Warsaw, Poland;Taxi/Rideshare;50,08;25.07.2025;Personal Card;Client meeting;Prague, Czech Republic;75;0;0;0;1;Review
+T00280;E170;Raymond Cox;Finance;Warsaw, Poland;Airfare;911,13;20.01.2025;Corporate Card;Training;Vienna, Austria;800;111,13;1;0;0;Review
+T00200;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Dinner;54,47;22.09.2025;Corporate Card;Customer workshop;Gdansk, Poland;75;0;0;0;0;OK
+T00128;E138;Donna Nguyen;Engineering;Warsaw, Poland;Dinner;69,21;14.07.2025;Personal Card;Client dinner;Gdansk, Poland;75;0;0;0;1;Review
+T00265;E169;Helen Richardson;Marketing;London, UK;Lunch;23,11;3.03.2025;Corporate Card;Customer workshop;Paris, France;50;0;0;0;0;OK
+T00066;E117;Thomas Taylor;HR;Warsaw, Poland;Lunch;14,56;29.07.2025;Corporate Card;Conference attendance;Krakow, Poland;50;0;0;1;0;Review
+T00154;E143;Kevin Nelson;Sales;London, UK;Lunch;29,82;14.10.2025;Personal Card;Business trip;Dublin, Ireland;50;0;0;0;1;Review
+T00211;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;48,51;9.04.2025;Corporate Card;Conference attendance;Vienna, Austria;75;0;0;0;0;OK
+T00080;E121;Christopher Lee;Marketing;Warsaw, Poland;Taxi/Rideshare;27,72;7.02.2025;Corporate Card;Customer visit;Wroclaw, Poland;75;0;0;0;0;OK
+T00177;E153;Timothy Campbell;HR;Warsaw, Poland;Lunch;21,53;31.03.2025;Corporate Card;Internal meeting;Krakow, Poland;50;0;0;0;0;OK
+T00176;E153;Timothy Campbell;HR;Warsaw, Poland;Taxi/Rideshare;32,77;18.09.2025;Corporate Card;Conference attendance;Prague, Czech Republic;75;0;0;0;0;OK
+T00139;E141;Kenneth Green;HR;Berlin, Germany;Hotel;271,72;9.05.2025;Personal Card;Project workshop;Hamburg, Germany;300;0;0;0;1;Review
+T00271;E169;Helen Richardson;Marketing;London, UK;Breakfast;17,3;12.11.2025;Corporate Card;Client meeting;Manchester, UK;30;0;0;0;0;OK
+T00125;E137;Andrew Torres;Sales;Berlin, Germany;Lunch;16,33;9.09.2025;Corporate Card;Prospect meeting;Prague, Czech Republic;50;0;0;0;0;OK
+T00244;E160;Brenda Morris;Operations;London, UK;Train;125,61;10.10.2025;Corporate Card;Customer visit;Berlin, Germany;150;0;0;0;0;OK
+T00045;E114;Susan Wilson;Engineering;London, UK;Dinner;57,56;7.08.2025;Corporate Card;Team dinner;Amsterdam, Netherlands;75;0;0;0;0;OK
+T00279;E170;Raymond Cox;Finance;Warsaw, Poland;Lunch;36,7;18.02.2025;Corporate Card;Internal meeting;Warsaw, Poland;50;0;0;0;0;OK
+T00071;E121;Christopher Lee;Marketing;Warsaw, Poland;Hotel;249,6;22.05.2025;Personal Card;Agency workshop;Gdansk, Poland;300;0;0;1;1;Review
+T00283;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;45,77;28.05.2025;Personal Card;Audit meeting;Warsaw, Poland;75;0;0;0;1;Review
+T00085;E122;Nancy Perez;Finance;Warsaw, Poland;Airfare;1339,25;12.02.2025;Corporate Card;Project workshop;Berlin, Germany;800;539,25;1;0;0;Review
+T00040;E113;Richard Gonzalez;Sales;Warsaw, Poland;Breakfast;12,87;28.04.2025;Corporate Card;Travel to customer site;London, UK;30;0;0;0;0;OK
+T00221;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Train;137,97;17.09.2025;Personal Card;Conference attendance;Paris, France;150;0;0;0;1;Review
+T00070;E121;Christopher Lee;Marketing;Warsaw, Poland;Airfare;459,45;17.11.2025;Corporate Card;Customer visit;Warsaw, Poland;800;0;0;0;0;OK
+T00009;E106;Jennifer Garcia;Operations;Warsaw, Poland;Dinner;38,55;11.08.2025;Personal Card;Conference attendance;Krakow, Poland;75;0;0;0;1;Review
+T00006;E105;John Jones;HR;Warsaw, Poland;Airfare;596,37;18.03.2025;Corporate Card;HR conference;London, UK;800;0;0;0;0;OK
+T00231;E158;Shirley Stewart;Finance;Berlin, Germany;Hotel;356,06;12.03.2025;Corporate Card;Finance workshop;Prague, Czech Republic;300;56,06;1;0;0;Review
+T00087;E123;Daniel Thompson;HR;Berlin, Germany;Hotel;258,46;23.09.2025;Corporate Card;HR conference;Frankfurt, Germany;300;0;0;0;0;OK
+T00142;E141;Kenneth Green;HR;Berlin, Germany;Breakfast;17,54;20.01.2025;Corporate Card;Travel to customer site;Warsaw, Poland;30;0;0;0;0;OK
+T00008;E105;John Jones;HR;Warsaw, Poland;Airfare;328,29;4.03.2025;Corporate Card;Customer visit;Prague, Czech Republic;800;0;0;1;0;Review
+T00266;E169;Helen Richardson;Marketing;London, UK;Airfare;524,57;13.10.2025;Corporate Card;Agency workshop;London, UK;800;0;0;0;0;OK
+T00004;E103;Robert Williams;Marketing;Warsaw, Poland;Train;49,25;12.03.2025;Personal Card;Internal meeting;Warsaw, Poland;150;0;0;0;1;Review
+T00134;E140;Michelle Flores;Finance;London, UK;Lunch;22,85;18.06.2025;Personal Card;Audit meeting;Paris, France;50;0;0;0;1;Review
+T00030;E111;William Hernandez;HR;Warsaw, Poland;Dinner;89,97;21.10.2025;Corporate Card;Team dinner;Berlin, Germany;75;14,97;1;1;0;Review
+T00023;E109;David Rodriguez;Marketing;Berlin, Germany;Hotel;112,64;24.04.2025;Corporate Card;Agency workshop;Prague, Czech Republic;300;0;0;0;0;OK
+T00254;E167;Eric Bailey;Sales;Warsaw, Poland;Hotel;318,68;4.04.2025;Personal Card;Conference attendance;Krakow, Poland;300;18,68;1;0;1;Review
+T00184;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Lunch;26,03;6.08.2025;Corporate Card;Partner meeting;Krakow, Poland;50;0;0;0;0;OK
+T00103;E126;Betty Sanchez;Engineering;Berlin, Germany;Dinner;61,61;29.05.2025;Corporate Card;Project workshop;Amsterdam, Netherlands;75;0;0;0;0;OK
+T00094;E123;Daniel Thompson;HR;Berlin, Germany;Dinner;85,48;15.04.2025;Corporate Card;Business trip;Frankfurt, Germany;75;10,48;1;0;0;Review
+T00257;E168;Frank Cooper;Engineering;Berlin, Germany;Airfare;1063,06;14.05.2025;Corporate Card;Business trip;Warsaw, Poland;800;263,06;1;0;0;Review
+T00203;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Lunch;54,45;4.08.2025;Corporate Card;Partner meeting;London, UK;50;4,45;1;1;0;Review
+T00053;E114;Susan Wilson;Engineering;London, UK;Airfare;322,31;13.01.2025;Corporate Card;Training;Edinburgh, UK;800;0;0;0;0;OK
+T00003;E103;Robert Williams;Marketing;Warsaw, Poland;Breakfast;11,94;1.09.2025;Personal Card;Conference attendance;London, UK;30;0;0;1;1;Review
+T00033;E111;William Hernandez;HR;Warsaw, Poland;Airfare;735,18;20.10.2025;Corporate Card;Training;Vienna, Austria;800;0;0;0;0;OK
+T00291;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;60,89;16.05.2025;Corporate Card;Business trip;Wroclaw, Poland;75;0;0;0;0;OK
+T00216;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;225,19;14.03.2025;Corporate Card;Agency workshop;Vienna, Austria;300;0;0;0;0;OK
+T00056;E114;Susan Wilson;Engineering;London, UK;Airfare;580,77;22.01.2025;Corporate Card;Customer visit;Berlin, Germany;800;0;0;0;0;OK
+T00076;E121;Christopher Lee;Marketing;Warsaw, Poland;Train;120,81;18.12.2025;Corporate Card;Business trip;Wroclaw, Poland;150;0;0;1;0;Review
+T00007;E105;John Jones;HR;Warsaw, Poland;Airfare;936,27;6.10.2025;Corporate Card;Business trip;Berlin, Germany;800;136,27;1;0;0;Review
+T00210;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;60,8;10.12.2025;Corporate Card;Late return from client meeting;Berlin, Germany;75;0;0;0;0;OK
+T00068;E117;Thomas Taylor;HR;Warsaw, Poland;Hotel;189,71;29.05.2025;Personal Card;HR conference;Vienna, Austria;300;0;0;1;1;Review
+T00123;E135;Paul Wright;HR;Warsaw, Poland;Airfare;1155,77;23.07.2025;Corporate Card;Supplier meeting;Gdansk, Poland;800;355,77;1;1;0;Review
+T00064;E116;Jessica Thomas;Finance;Warsaw, Poland;Lunch;43,45;6.11.2025;Corporate Card;Internal meeting;Gdansk, Poland;50;0;0;0;0;OK
+T00024;E111;William Hernandez;HR;Warsaw, Poland;Lunch;21,25;13.06.2025;Corporate Card;Business trip;London, UK;50;0;0;0;0;OK
+T00151;E143;Kevin Nelson;Sales;London, UK;Airfare;858,47;8.10.2025;Personal Card;Customer visit;Edinburgh, UK;800;58,47;1;0;1;Review
+T00212;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Hotel;141,91;18.02.2025;Personal Card;Business trip;Vienna, Austria;300;0;0;0;1;Review
+T00069;E119;Charles Jackson;Sales;Berlin, Germany;Lunch;58,14;12.08.2025;Corporate Card;Internal meeting;Vienna, Austria;50;8,14;1;0;0;Review
+T00274;E169;Helen Richardson;Marketing;London, UK;Dinner;26,19;29.07.2025;Corporate Card;Client dinner;Amsterdam, Netherlands;75;0;0;0;0;OK
+T00191;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;722,61;6.08.2025;Personal Card;Business trip;Prague, Czech Republic;800;0;0;0;1;Review
+T00217;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;85,72;20.06.2025;Corporate Card;Airport transfer;Wroclaw, Poland;75;10,72;1;0;0;Review
+T00099;E124;Lisa White;Operations;Warsaw, Poland;Taxi/Rideshare;45,57;19.11.2025;Personal Card;Customer visit;Wroclaw, Poland;75;0;0;0;1;Review
+T00195;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;620,41;12.05.2025;Corporate Card;Sales visit;Berlin, Germany;800;0;0;0;0;OK
+T00120;E135;Paul Wright;HR;Warsaw, Poland;Lunch;59,77;4.09.2025;Corporate Card;Internal meeting;Berlin, Germany;50;9,77;1;1;0;Review
+T00114;E133;Steven Allen;Marketing;London, UK;Airfare;679,39;27.01.2025;Corporate Card;Customer visit;Berlin, Germany;800;0;0;0;0;OK
+T00182;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;44,83;6.02.2025;Personal Card;Travel between offices;Wroclaw, Poland;75;0;0;0;1;Review
+T00041;E113;Richard Gonzalez;Sales;Warsaw, Poland;Hotel;352,57;24.03.2025;Corporate Card;Conference attendance;Prague, Czech Republic;300;52,57;1;0;0;Review
+T00287;E170;Raymond Cox;Finance;Warsaw, Poland;Lunch;53,73;19.05.2025;Corporate Card;Internal meeting;Berlin, Germany;50;3,73;1;0;0;Review
+T00290;E170;Raymond Cox;Finance;Warsaw, Poland;Lunch;60,17;11.12.2025;Corporate Card;Audit meeting;Krakow, Poland;50;10,17;1;0;0;Review
+T00052;E114;Susan Wilson;Engineering;London, UK;Hotel;195,44;8.09.2025;Personal Card;Supplier meeting;Amsterdam, Netherlands;300;0;0;0;1;Review
+T00157;E143;Kevin Nelson;Sales;London, UK;Dinner;47,04;5.11.2025;Corporate Card;Client dinner;Paris, France;75;0;0;0;0;OK
+T00016;E108;Linda Davis;Engineering;Warsaw, Poland;Lunch;32,45;10.01.2025;Corporate Card;Customer workshop;Krakow, Poland;50;0;0;1;0;Review
+T00275;E169;Helen Richardson;Marketing;London, UK;Breakfast;13,93;27.03.2025;Corporate Card;Client meeting;Paris, France;30;0;0;0;0;OK
+T00155;E143;Kevin Nelson;Sales;London, UK;Airfare;878,29;2.07.2025;Personal Card;Customer visit;Berlin, Germany;800;78,29;1;0;1;Review
+T00091;E123;Daniel Thompson;HR;Berlin, Germany;Lunch;35,93;5.08.2025;Corporate Card;HR workshop;Hamburg, Germany;50;0;0;0;0;OK
+T00264;E169;Helen Richardson;Marketing;London, UK;Airfare;1631,75;30.01.2025;Corporate Card;Agency workshop;Edinburgh, UK;800;831,75;1;0;0;Review
+T00209;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Train;109,18;28.04.2025;Corporate Card;Training;Vienna, Austria;150;0;0;0;0;OK
+T00218;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;521,55;6.02.2025;Corporate Card;Client visit;London, UK;800;0;0;1;0;Review
+T00141;E141;Kenneth Green;HR;Berlin, Germany;Train;162,09;29.07.2025;Corporate Card;Supplier meeting;Frankfurt, Germany;150;12,09;1;0;0;Review
+T00020;E108;Linda Davis;Engineering;Warsaw, Poland;Hotel;277,65;31.10.2025;Corporate Card;Customer visit;Gdansk, Poland;300;0;0;0;0;OK
+T00055;E114;Susan Wilson;Engineering;London, UK;Dinner;80,11;12.08.2025;Personal Card;Partner meeting;Berlin, Germany;75;5,11;1;0;1;Review
+T00104;E126;Betty Sanchez;Engineering;Berlin, Germany;Dinner;85,3;20.10.2025;Personal Card;Customer workshop;Munich, Germany;75;10,3;1;0;1;Review
+T00202;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Airfare;928,43;19.12.2025;Corporate Card;Campaign event;Warsaw, Poland;800;128,43;1;0;0;Review
+T00215;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Train;129,86;27.11.2025;Corporate Card;Internal meeting;Paris, France;150;0;0;0;0;OK
+T00174;E151;Ronald Turner;Marketing;Berlin, Germany;Dinner;46,15;21.11.2025;Corporate Card;Agency dinner;Vienna, Austria;75;0;0;1;0;Review
+T00223;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Train;68,8;20.05.2025;Corporate Card;Customer visit;Paris, France;150;0;0;0;0;OK
+T00171;E151;Ronald Turner;Marketing;Berlin, Germany;Airfare;307,34;20.03.2025;Corporate Card;Campaign event;Munich, Germany;800;0;0;0;0;OK
+T00110;E130;Sandra Robinson;Operations;Warsaw, Poland;Dinner;38,51;16.05.2025;Corporate Card;Business trip;London, UK;75;0;0;0;0;OK
+T00302;E171;Marie Howard;HR;London, UK;Dinner;87,38;6.01.2025;Personal Card;HR workshop;Dublin, Ireland;75;12,38;1;0;1;Review
+T00156;E143;Kevin Nelson;Sales;London, UK;Train;158,72;24.01.2025;Corporate Card;Supplier meeting;Paris, France;150;8,72;1;0;0;Review
+T00073;E121;Christopher Lee;Marketing;Warsaw, Poland;Airfare;375,89;24.03.2025;Corporate Card;Conference attendance;Prague, Czech Republic;800;0;0;0;0;OK
+T00299;E171;Marie Howard;HR;London, UK;Airfare;477,37;1.08.2025;Corporate Card;Customer visit;London, UK;800;0;0;0;0;OK
+T00190;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Taxi/Rideshare;49,98;28.04.2025;Corporate Card;Conference attendance;Paris, France;75;0;0;0;0;OK
+T00219;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Lunch;52,78;30.04.2025;Corporate Card;Partner meeting;Paris, France;50;2,78;1;0;0;Review
+T00129;E139;Joshua Hill;Marketing;Warsaw, Poland;Airfare;439,43;4.04.2025;Personal Card;Conference attendance;Gdansk, Poland;800;0;0;0;1;Review
+T00112;E132;Ashley Young;Engineering;Warsaw, Poland;Lunch;46,36;7.03.2025;Corporate Card;Internal meeting;Wroclaw, Poland;50;0;0;0;0;OK
+T00075;E121;Christopher Lee;Marketing;Warsaw, Poland;Lunch;35,91;27.02.2025;Personal Card;Agency meeting;Berlin, Germany;50;0;0;0;1;Review
+T00189;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Breakfast;19,47;26.02.2025;Corporate Card;Early client workshop;Vienna, Austria;30;0;0;0;0;OK
+T00117;E134;Kimberly King;Finance;Berlin, Germany;Taxi/Rideshare;48,02;5.08.2025;Personal Card;Conference attendance;Hamburg, Germany;75;0;0;0;1;Review
+T00049;E114;Susan Wilson;Engineering;London, UK;Taxi/Rideshare;24,53;3.10.2025;Corporate Card;Travel between offices;Manchester, UK;75;0;0;0;0;OK
+T00133;E140;Michelle Flores;Finance;London, UK;Airfare;1013,23;23.09.2025;Corporate Card;Customer visit;Dublin, Ireland;800;213,23;1;0;0;Review
+T00086;E122;Nancy Perez;Finance;Warsaw, Poland;Airfare;609,22;28.07.2025;Corporate Card;Training;Krakow, Poland;800;0;0;0;0;OK
+T00018;E108;Linda Davis;Engineering;Warsaw, Poland;Breakfast;12,86;10.11.2025;Personal Card;Client meeting;Wroclaw, Poland;30;0;0;0;1;Review
+T00180;E153;Timothy Campbell;HR;Warsaw, Poland;Hotel;107,27;16.11.2025;Corporate Card;Business trip;Vienna, Austria;300;0;0;0;0;OK
+T00081;E121;Christopher Lee;Marketing;Warsaw, Poland;Train;128,97;13.03.2025;Corporate Card;Supplier meeting;Berlin, Germany;150;0;0;0;0;OK
+T00293;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;81,29;10.03.2025;Corporate Card;Team dinner;Vienna, Austria;75;6,29;1;0;0;Review
+T00150;E142;Amanda Adams;Operations;Warsaw, Poland;Hotel;237,56;21.03.2025;Corporate Card;Sales visit;Paris, France;300;0;0;0;0;OK
+T00197;E157;Jeffrey Collins;Marketing;Warsaw, Poland;Dinner;47,13;18.04.2025;Corporate Card;Conference attendance;Krakow, Poland;75;0;0;0;0;OK
+T00067;E117;Thomas Taylor;HR;Warsaw, Poland;Taxi/Rideshare;86,38;23.05.2025;Corporate Card;Travel between offices;Prague, Czech Republic;75;11,38;1;0;0;Review
+T00166;E146;Deborah Rivera;Finance;Warsaw, Poland;Breakfast;23,5;29.07.2025;Corporate Card;Travel to customer site;Warsaw, Poland;30;0;0;0;0;OK
+T00044;E114;Susan Wilson;Engineering;London, UK;Taxi/Rideshare;56,93;27.11.2025;Corporate Card;Airport transfer;Manchester, UK;75;0;0;0;0;OK
+T00251;E167;Eric Bailey;Sales;Warsaw, Poland;Lunch;58,73;20.03.2025;Personal Card;Prospect meeting;Wroclaw, Poland;50;8,73;1;0;1;Review
+T00298;E170;Raymond Cox;Finance;Warsaw, Poland;Dinner;58,49;17.11.2025;Corporate Card;Audit meeting;Wroclaw, Poland;75;0;0;0;0;OK
+T00149;E142;Amanda Adams;Operations;Warsaw, Poland;Hotel;154,2;30.09.2025;Corporate Card;Supplier visit;Berlin, Germany;300;0;0;0;0;OK
+T00272;E169;Helen Richardson;Marketing;London, UK;Airfare;847,72;26.11.2025;Corporate Card;Agency workshop;London, UK;800;47,72;1;0;0;Review
+T00077;E121;Christopher Lee;Marketing;Warsaw, Poland;Lunch;31,2;30.06.2025;Corporate Card;Customer workshop;London, UK;50;0;0;1;0;Review
+T00239;E159;Ryan Sanchez;HR;Warsaw, Poland;Airfare;591,86;7.03.2025;Corporate Card;HR conference;Gdansk, Poland;800;0;0;0;0;OK
+T00268;E169;Helen Richardson;Marketing;London, UK;Hotel;137,69;11.09.2025;Personal Card;Conference attendance;Paris, France;300;0;0;0;1;Review
+T00108;E130;Sandra Robinson;Operations;Warsaw, Poland;Dinner;44,26;25.11.2025;Corporate Card;Business trip;Krakow, Poland;75;0;0;0;0;OK
+T00260;E168;Frank Cooper;Engineering;Berlin, Germany;Airfare;323,75;14.02.2025;Corporate Card;Training;Vienna, Austria;800;0;0;1;0;Review
+T00168;E146;Deborah Rivera;Finance;Warsaw, Poland;Lunch;41,17;24.10.2025;Corporate Card;Customer workshop;Paris, France;50;0;0;0;0;OK
+T00181;E153;Timothy Campbell;HR;Warsaw, Poland;Hotel;359,96;10.04.2025;Corporate Card;Training;Krakow, Poland;300;59,96;1;0;0;Review
+T00277;E169;Helen Richardson;Marketing;London, UK;Train;136,01;6.08.2025;Corporate Card;Customer visit;Berlin, Germany;150;0;0;0;0;OK
+T00163;E144;Melissa Baker;Engineering;Berlin, Germany;Airfare;1136,96;3.11.2025;Personal Card;Supplier meeting;Amsterdam, Netherlands;800;336,96;1;0;1;Review
+T00059;E115;Joseph Anderson;Marketing;Berlin, Germany;Dinner;55,03;28.10.2025;Corporate Card;Client dinner;Vienna, Austria;75;0;0;0;0;OK
+T00106;E126;Betty Sanchez;Engineering;Berlin, Germany;Airfare;903,69;17.06.2025;Corporate Card;Training;Frankfurt, Germany;800;103,69;1;0;0;Review
